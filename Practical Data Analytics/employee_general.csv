@@ -1,0 +1,1471 @@
+EmployeeNumber|Education|EducationField|MaritalStatus
+1|College|Life Sciences|Single
+2|Below College|Life Sciences|Married
+4|College|Other|Single
+5|Master|Life Sciences|Married
+7|Below College|Medical|Married
+8|College|Life Sciences|Single
+10|Bachelor|Medical|Married
+11|Below College|Life Sciences|Divorced
+12|Bachelor|Life Sciences|Single
+13|Bachelor|Medical|Married
+14|Bachelor|Medical|Married
+15|College|Life Sciences|Single
+16|Below College|Life Sciences|Divorced
+18|College|Medical|Divorced
+19|Bachelor|Life Sciences|Single
+20|Master|Life Sciences|Divorced
+21|College|Life Sciences|Divorced
+22|College|Medical|Divorced
+23|Master|Life Sciences|Married
+24|Bachelor|Life Sciences|Single
+26|College|Other|Divorced
+27|Master|Life Sciences|Single
+28|Master|Life Sciences|Single
+30|College|Life Sciences|Single
+31|Below College|Medical|Single
+32|Bachelor|Other|Divorced
+33|Below College|Life Sciences|Single
+35|Master|Marketing|Married
+36|Master|Medical|Married
+38|Master|Marketing|Single
+39|Bachelor|Medical|Single
+40|Master|Other|Married
+41|College|Medical|Single
+42|Bachelor|Technical Degree|Married
+45|Bachelor|Medical|Married
+46|College|Medical|Divorced
+47|College|Marketing|Married
+49|Bachelor|Marketing|Married
+51|Master|Life Sciences|Married
+52|Bachelor|Life Sciences|Married
+53|College|Other|Divorced
+54|Master|Life Sciences|Divorced
+55|Bachelor|Life Sciences|Single
+56|Bachelor|Life Sciences|Single
+57|College|Medical|Single
+58|Bachelor|Technical Degree|Married
+60|Master|Marketing|Single
+61|College|Life Sciences|Married
+62|Master|Marketing|Single
+63|Below College|Life Sciences|Married
+64|College|Life Sciences|Single
+65|Master|Technical Degree|Single
+68|Doctor|Marketing|Divorced
+70|College|Medical|Married
+72|Bachelor|Marketing|Married
+73|College|Life Sciences|Single
+74|Doctor|Life Sciences|Married
+75|Master|Medical|Married
+76|Master|Life Sciences|Divorced
+77|Master|Life Sciences|Divorced
+78|Bachelor|Medical|Married
+79|Doctor|Life Sciences|Single
+80|College|Medical|Divorced
+81|Bachelor|Life Sciences|Single
+83|Bachelor|Technical Degree|Divorced
+84|Bachelor|Medical|Divorced
+85|Bachelor|Life Sciences|Single
+86|Bachelor|Life Sciences|Divorced
+88|Bachelor|Medical|Married
+90|Bachelor|Medical|Married
+91|Below College|Life Sciences|Single
+94|Bachelor|Life Sciences|Married
+95|Master|Medical|Single
+96|Bachelor|Life Sciences|Married
+97|Bachelor|Life Sciences|Married
+98|Master|Life Sciences|Single
+100|Master|Marketing|Single
+101|Master|Other|Married
+102|Master|Medical|Single
+103|College|Medical|Divorced
+104|Below College|Life Sciences|Married
+105|Bachelor|Medical|Single
+106|College|Life Sciences|Married
+107|Bachelor|Medical|Divorced
+110|College|Medical|Married
+112|Bachelor|Life Sciences|Single
+113|Below College|Technical Degree|Divorced
+116|Master|Life Sciences|Married
+117|Bachelor|Life Sciences|Married
+118|College|Medical|Single
+119|Master|Life Sciences|Married
+120|Master|Marketing|Single
+121|College|Medical|Divorced
+124|Bachelor|Medical|Married
+125|Master|Medical|Single
+126|Master|Technical Degree|Married
+128|College|Other|Married
+129|Bachelor|Medical|Married
+131|Master|Medical|Single
+132|Bachelor|Medical|Married
+133|Master|Human Resources|Divorced
+134|Below College|Life Sciences|Single
+137|Bachelor|Life Sciences|Single
+138|Master|Other|Single
+139|College|Life Sciences|Divorced
+140|Master|Human Resources|Married
+141|Bachelor|Life Sciences|Married
+142|Bachelor|Marketing|Single
+143|Below College|Medical|Married
+144|Bachelor|Medical|Single
+145|Master|Medical|Single
+147|Bachelor|Life Sciences|Single
+148|Bachelor|Human Resources|Single
+150|Below College|Life Sciences|Married
+151|Master|Life Sciences|Divorced
+152|Bachelor|Life Sciences|Single
+153|Bachelor|Medical|Single
+154|College|Technical Degree|Married
+155|College|Life Sciences|Divorced
+158|College|Life Sciences|Married
+159|Bachelor|Life Sciences|Divorced
+160|College|Marketing|Married
+161|Master|Life Sciences|Married
+162|Bachelor|Life Sciences|Single
+163|Master|Life Sciences|Married
+164|Bachelor|Other|Married
+165|Master|Medical|Married
+167|Below College|Marketing|Single
+169|Below College|Technical Degree|Married
+170|Master|Medical|Married
+171|Bachelor|Medical|Single
+174|Bachelor|Marketing|Single
+175|Bachelor|Life Sciences|Married
+176|Below College|Life Sciences|Divorced
+177|Below College|Life Sciences|Married
+178|College|Medical|Divorced
+179|Master|Life Sciences|Single
+182|Master|Life Sciences|Married
+183|Bachelor|Life Sciences|Married
+184|Bachelor|Human Resources|Married
+190|Bachelor|Medical|Single
+192|Bachelor|Medical|Single
+193|Doctor|Technical Degree|Single
+194|Bachelor|Life Sciences|Single
+195|College|Medical|Divorced
+197|Bachelor|Technical Degree|Divorced
+198|Below College|Medical|Single
+199|Bachelor|Life Sciences|Divorced
+200|Master|Life Sciences|Married
+201|Below College|Medical|Single
+202|Bachelor|Medical|Divorced
+204|Doctor|Marketing|Married
+205|College|Marketing|Married
+206|Bachelor|Life Sciences|Divorced
+207|Bachelor|Marketing|Single
+208|Below College|Technical Degree|Married
+211|Master|Medical|Married
+214|Bachelor|Medical|Married
+215|Master|Marketing|Married
+216|Master|Marketing|Married
+217|Below College|Medical|Married
+218|Bachelor|Medical|Divorced
+221|Bachelor|Medical|Married
+223|College|Life Sciences|Divorced
+224|Bachelor|Medical|Divorced
+226|Bachelor|Life Sciences|Single
+227|Bachelor|Life Sciences|Divorced
+228|Bachelor|Life Sciences|Married
+230|Master|Life Sciences|Single
+231|Doctor|Life Sciences|Single
+233|Bachelor|Technical Degree|Married
+235|Below College|Technical Degree|Single
+238|College|Medical|Single
+239|Bachelor|Medical|Divorced
+240|College|Life Sciences|Divorced
+241|Bachelor|Life Sciences|Divorced
+242|Bachelor|Life Sciences|Single
+243|Bachelor|Life Sciences|Single
+244|College|Marketing|Divorced
+245|College|Life Sciences|Single
+246|Below College|Medical|Married
+247|College|Medical|Single
+248|College|Marketing|Single
+249|Bachelor|Medical|Married
+250|College|Medical|Divorced
+252|Bachelor|Medical|Married
+253|Below College|Medical|Married
+254|Master|Medical|Single
+256|Below College|Life Sciences|Married
+258|Bachelor|Medical|Single
+259|Master|Life Sciences|Married
+260|Bachelor|Medical|Single
+261|College|Life Sciences|Married
+262|Bachelor|Medical|Divorced
+264|College|Medical|Married
+267|Bachelor|Life Sciences|Married
+269|Bachelor|Medical|Single
+270|College|Medical|Divorced
+271|Master|Life Sciences|Married
+273|Bachelor|Technical Degree|Married
+274|Below College|Technical Degree|Married
+275|Master|Life Sciences|Divorced
+277|Master|Medical|Divorced
+281|College|Medical|Married
+282|Below College|Medical|Married
+283|Bachelor|Marketing|Married
+284|Bachelor|Life Sciences|Divorced
+286|Below College|Medical|Single
+287|Doctor|Life Sciences|Married
+288|Master|Medical|Divorced
+291|Master|Medical|Married
+292|Below College|Life Sciences|Single
+293|Bachelor|Life Sciences|Single
+296|Master|Life Sciences|Married
+297|Bachelor|Technical Degree|Single
+298|Bachelor|Life Sciences|Single
+299|Master|Marketing|Single
+300|Bachelor|Technical Degree|Single
+302|Bachelor|Medical|Single
+303|Bachelor|Marketing|Married
+304|College|Life Sciences|Single
+305|Master|Medical|Married
+306|Bachelor|Other|Divorced
+307|Bachelor|Life Sciences|Divorced
+308|Master|Medical|Married
+309|Bachelor|Life Sciences|Married
+311|Master|Marketing|Divorced
+312|Below College|Medical|Married
+314|Bachelor|Marketing|Single
+315|Below College|Medical|Single
+316|Bachelor|Life Sciences|Single
+319|College|Technical Degree|Married
+321|College|Medical|Married
+323|Master|Medical|Divorced
+325|Bachelor|Medical|Married
+327|Bachelor|Marketing|Married
+328|College|Life Sciences|Married
+329|Master|Life Sciences|Single
+330|College|Life Sciences|Married
+331|Bachelor|Life Sciences|Single
+332|Master|Medical|Divorced
+333|Master|Marketing|Married
+334|College|Life Sciences|Divorced
+335|College|Technical Degree|Divorced
+336|Bachelor|Other|Married
+337|Master|Medical|Divorced
+338|Master|Life Sciences|Married
+339|Master|Life Sciences|Married
+340|College|Medical|Married
+341|Master|Life Sciences|Married
+342|Bachelor|Medical|Divorced
+343|Master|Technical Degree|Single
+346|Bachelor|Life Sciences|Single
+347|College|Life Sciences|Single
+349|College|Marketing|Divorced
+350|Bachelor|Life Sciences|Married
+351|Bachelor|Medical|Divorced
+352|College|Medical|Divorced
+353|Bachelor|Life Sciences|Married
+355|College|Medical|Single
+359|Bachelor|Life Sciences|Married
+361|College|Life Sciences|Married
+362|Below College|Technical Degree|Single
+363|Bachelor|Technical Degree|Married
+364|Master|Life Sciences|Single
+366|Bachelor|Medical|Married
+367|Bachelor|Medical|Married
+369|College|Life Sciences|Divorced
+372|College|Medical|Married
+373|Bachelor|Life Sciences|Married
+374|Bachelor|Medical|Single
+376|Master|Life Sciences|Married
+377|Bachelor|Medical|Married
+378|Master|Medical|Married
+379|College|Medical|Single
+380|Master|Medical|Divorced
+381|Bachelor|Life Sciences|Divorced
+382|College|Medical|Divorced
+384|Bachelor|Life Sciences|Divorced
+385|Below College|Life Sciences|Divorced
+386|Master|Medical|Married
+387|Below College|Life Sciences|Married
+388|College|Life Sciences|Single
+389|College|Technical Degree|Married
+390|College|Medical|Married
+391|Bachelor|Life Sciences|Single
+392|Bachelor|Life Sciences|Divorced
+393|Master|Life Sciences|Divorced
+394|Master|Medical|Divorced
+395|College|Life Sciences|Single
+396|Master|Life Sciences|Single
+397|Bachelor|Technical Degree|Single
+399|Bachelor|Marketing|Divorced
+401|Master|Marketing|Single
+403|Bachelor|Medical|Married
+404|Bachelor|Marketing|Married
+405|Bachelor|Life Sciences|Single
+406|Bachelor|Marketing|Married
+407|Master|Life Sciences|Married
+408|Bachelor|Medical|Divorced
+410|Master|Life Sciences|Single
+411|Bachelor|Medical|Single
+412|College|Medical|Single
+416|Bachelor|Technical Degree|Married
+417|Bachelor|Medical|Divorced
+419|Master|Life Sciences|Married
+420|Bachelor|Life Sciences|Married
+421|College|Life Sciences|Married
+422|Master|Life Sciences|Divorced
+423|Master|Technical Degree|Married
+424|Bachelor|Human Resources|Married
+425|Bachelor|Life Sciences|Divorced
+426|Master|Life Sciences|Divorced
+428|Master|Life Sciences|Married
+429|Below College|Medical|Married
+430|Master|Life Sciences|Single
+431|College|Technical Degree|Single
+433|Master|Medical|Married
+434|Bachelor|Life Sciences|Single
+436|College|Technical Degree|Married
+437|Bachelor|Life Sciences|Single
+438|Bachelor|Marketing|Divorced
+439|Master|Medical|Single
+440|Master|Medical|Married
+441|College|Medical|Married
+442|College|Life Sciences|Married
+444|College|Medical|Married
+445|College|Medical|Married
+446|Bachelor|Marketing|Single
+447|Doctor|Life Sciences|Married
+448|Master|Life Sciences|Divorced
+449|Below College|Marketing|Married
+450|Master|Life Sciences|Single
+451|Bachelor|Life Sciences|Married
+452|Master|Other|Married
+453|College|Medical|Married
+454|Master|Other|Married
+455|Doctor|Other|Single
+456|Bachelor|Marketing|Divorced
+458|Master|Marketing|Married
+460|College|Medical|Divorced
+461|College|Life Sciences|Divorced
+462|Master|Medical|Single
+463|Below College|Marketing|Divorced
+464|Master|Technical Degree|Single
+465|Below College|Life Sciences|Divorced
+466|Bachelor|Medical|Single
+467|Below College|Medical|Single
+468|Doctor|Life Sciences|Single
+469|Bachelor|Life Sciences|Married
+470|Below College|Technical Degree|Divorced
+471|Bachelor|Medical|Married
+473|Below College|Medical|Married
+474|Bachelor|Medical|Divorced
+475|College|Technical Degree|Married
+476|Bachelor|Life Sciences|Married
+477|Master|Other|Single
+478|Below College|Technical Degree|Single
+479|Doctor|Medical|Single
+481|Master|Medical|Married
+482|Master|Medical|Married
+483|Master|Life Sciences|Married
+484|College|Medical|Single
+485|Bachelor|Marketing|Single
+486|Bachelor|Medical|Married
+487|Master|Medical|Married
+488|Bachelor|Marketing|Single
+491|Bachelor|Technical Degree|Single
+492|College|Marketing|Married
+493|Master|Life Sciences|Single
+494|Bachelor|Life Sciences|Single
+495|Bachelor|Life Sciences|Single
+496|Master|Life Sciences|Single
+497|College|Medical|Divorced
+498|Master|Life Sciences|Single
+499|Bachelor|Other|Single
+500|College|Life Sciences|Married
+501|Bachelor|Life Sciences|Married
+502|Bachelor|Marketing|Single
+505|Bachelor|Life Sciences|Single
+507|Master|Marketing|Divorced
+508|Below College|Technical Degree|Married
+510|Below College|Technical Degree|Single
+511|Bachelor|Medical|Married
+513|College|Medical|Married
+514|Bachelor|Technical Degree|Single
+515|Bachelor|Life Sciences|Divorced
+516|College|Marketing|Divorced
+517|Master|Life Sciences|Divorced
+518|Master|Life Sciences|Single
+520|Bachelor|Life Sciences|Divorced
+521|Bachelor|Medical|Married
+522|College|Medical|Married
+523|Master|Marketing|Married
+524|College|Medical|Married
+525|Bachelor|Medical|Married
+526|Master|Other|Divorced
+527|College|Life Sciences|Single
+529|Doctor|Medical|Married
+530|College|Life Sciences|Married
+531|Below College|Life Sciences|Divorced
+532|Bachelor|Life Sciences|Married
+533|Bachelor|Technical Degree|Single
+534|Bachelor|Marketing|Married
+536|College|Medical|Divorced
+538|Bachelor|Medical|Married
+543|Bachelor|Medical|Married
+544|College|Life Sciences|Married
+546|College|Life Sciences|Married
+547|College|Life Sciences|Divorced
+548|Bachelor|Life Sciences|Single
+549|Bachelor|Life Sciences|Married
+550|Bachelor|Medical|Divorced
+551|Master|Technical Degree|Married
+554|Below College|Technical Degree|Single
+555|College|Marketing|Divorced
+556|College|Life Sciences|Married
+558|Master|Life Sciences|Married
+560|Bachelor|Life Sciences|Divorced
+562|Bachelor|Life Sciences|Married
+564|Master|Medical|Married
+565|Doctor|Technical Degree|Married
+566|College|Technical Degree|Single
+567|Master|Other|Married
+568|Bachelor|Marketing|Divorced
+569|Master|Life Sciences|Married
+571|Bachelor|Medical|Single
+573|Bachelor|Marketing|Married
+574|College|Medical|Divorced
+575|Bachelor|Life Sciences|Married
+577|Bachelor|Life Sciences|Single
+578|Master|Life Sciences|Single
+579|Master|Life Sciences|Divorced
+580|Bachelor|Marketing|Married
+581|Below College|Life Sciences|Divorced
+582|Below College|Medical|Married
+584|Below College|Medical|Divorced
+585|Below College|Marketing|Single
+586|Bachelor|Life Sciences|Married
+587|Bachelor|Life Sciences|Married
+590|Bachelor|Human Resources|Divorced
+591|College|Other|Married
+592|Master|Medical|Single
+593|Below College|Technical Degree|Single
+595|Doctor|Marketing|Married
+597|Doctor|Life Sciences|Single
+599|College|Life Sciences|Single
+600|Bachelor|Marketing|Married
+601|Bachelor|Life Sciences|Single
+602|Below College|Life Sciences|Married
+604|Below College|Life Sciences|Single
+605|Bachelor|Medical|Married
+606|Bachelor|Other|Married
+608|Master|Life Sciences|Divorced
+611|Bachelor|Technical Degree|Divorced
+612|Doctor|Medical|Divorced
+613|Bachelor|Life Sciences|Divorced
+614|Bachelor|Marketing|Single
+615|Bachelor|Other|Divorced
+616|Master|Other|Single
+618|College|Medical|Divorced
+620|Bachelor|Medical|Single
+621|Master|Life Sciences|Single
+622|Bachelor|Technical Degree|Single
+623|Bachelor|Technical Degree|Single
+624|Below College|Medical|Married
+625|Doctor|Life Sciences|Married
+626|Master|Medical|Divorced
+630|College|Technical Degree|Divorced
+631|Master|Other|Married
+632|Bachelor|Medical|Married
+634|Bachelor|Medical|Married
+635|Master|Life Sciences|Married
+638|Master|Life Sciences|Divorced
+639|Bachelor|Medical|Married
+641|College|Marketing|Married
+643|College|Other|Married
+644|Bachelor|Medical|Married
+645|Below College|Medical|Married
+647|Bachelor|Life Sciences|Married
+648|Master|Life Sciences|Married
+649|College|Life Sciences|Married
+650|Master|Medical|Divorced
+652|College|Other|Single
+653|Master|Medical|Divorced
+655|Master|Medical|Divorced
+656|Bachelor|Marketing|Married
+657|Bachelor|Life Sciences|Single
+659|Master|Life Sciences|Married
+661|Master|Other|Divorced
+662|Below College|Life Sciences|Single
+663|Doctor|Medical|Divorced
+664|Master|Life Sciences|Married
+665|Master|Life Sciences|Single
+666|Bachelor|Technical Degree|Divorced
+667|Below College|Marketing|Divorced
+669|Below College|Technical Degree|Single
+671|Master|Other|Married
+675|Below College|Medical|Married
+677|Master|Marketing|Divorced
+679|Master|Life Sciences|Married
+680|Bachelor|Medical|Divorced
+682|Below College|Medical|Single
+683|Doctor|Life Sciences|Married
+684|Master|Life Sciences|Married
+686|Bachelor|Life Sciences|Married
+689|Bachelor|Other|Married
+690|College|Medical|Married
+691|Master|Life Sciences|Single
+692|Bachelor|Life Sciences|Divorced
+698|Master|Medical|Married
+699|College|Medical|Divorced
+700|Master|Medical|Single
+701|Below College|Medical|Single
+702|Bachelor|Life Sciences|Single
+704|Bachelor|Life Sciences|Married
+705|Bachelor|Medical|Married
+707|Bachelor|Life Sciences|Married
+709|Master|Marketing|Single
+710|Master|Life Sciences|Divorced
+712|Below College|Marketing|Married
+714|Below College|Medical|Divorced
+715|College|Life Sciences|Single
+716|Below College|Medical|Married
+717|Bachelor|Medical|Single
+720|College|Life Sciences|Single
+721|Master|Technical Degree|Single
+722|Bachelor|Marketing|Single
+723|College|Technical Degree|Married
+724|Master|Life Sciences|Single
+725|College|Life Sciences|Married
+727|College|Life Sciences|Single
+728|Master|Marketing|Single
+729|Master|Life Sciences|Married
+730|Bachelor|Life Sciences|Married
+731|Master|Human Resources|Divorced
+732|Master|Marketing|Single
+733|College|Life Sciences|Divorced
+734|Bachelor|Human Resources|Married
+738|Master|Marketing|Married
+741|College|Life Sciences|Single
+742|Bachelor|Life Sciences|Married
+743|Bachelor|Life Sciences|Single
+744|Bachelor|Medical|Single
+746|Bachelor|Medical|Divorced
+747|Doctor|Marketing|Divorced
+749|Bachelor|Life Sciences|Single
+752|Bachelor|Medical|Divorced
+754|Bachelor|Life Sciences|Married
+757|College|Medical|Single
+758|Below College|Medical|Married
+760|Bachelor|Human Resources|Married
+762|Bachelor|Medical|Married
+763|Below College|Medical|Single
+764|Bachelor|Medical|Single
+766|Bachelor|Marketing|Divorced
+769|Bachelor|Life Sciences|Single
+771|Master|Life Sciences|Divorced
+772|Master|Life Sciences|Married
+773|Doctor|Medical|Married
+775|Doctor|Life Sciences|Divorced
+776|Master|Marketing|Married
+780|Master|Other|Single
+781|Below College|Medical|Single
+783|College|Technical Degree|Single
+784|Below College|Medical|Single
+785|College|Life Sciences|Single
+786|Bachelor|Other|Single
+787|Bachelor|Medical|Married
+789|Master|Life Sciences|Single
+791|Master|Medical|Married
+792|College|Life Sciences|Divorced
+793|Bachelor|Medical|Married
+796|Bachelor|Technical Degree|Single
+797|Master|Life Sciences|Single
+799|Master|Medical|Divorced
+800|Below College|Marketing|Married
+802|Below College|Life Sciences|Divorced
+803|Master|Life Sciences|Single
+804|Master|Medical|Single
+805|Master|Life Sciences|Married
+806|Bachelor|Life Sciences|Married
+807|College|Medical|Married
+808|College|Life Sciences|Married
+809|Bachelor|Life Sciences|Divorced
+811|Bachelor|Life Sciences|Married
+812|Bachelor|Life Sciences|Divorced
+813|Master|Life Sciences|Married
+815|Bachelor|Medical|Married
+816|College|Life Sciences|Married
+817|Bachelor|Medical|Married
+819|Bachelor|Marketing|Single
+820|College|Other|Married
+823|Bachelor|Other|Married
+824|College|Life Sciences|Married
+825|Master|Life Sciences|Single
+826|Master|Life Sciences|Single
+827|College|Life Sciences|Married
+828|Master|Medical|Single
+829|Bachelor|Human Resources|Married
+830|Bachelor|Life Sciences|Married
+832|Master|Medical|Single
+833|Bachelor|Medical|Single
+834|Bachelor|Life Sciences|Single
+836|Bachelor|Life Sciences|Married
+837|Bachelor|Life Sciences|Divorced
+838|Master|Life Sciences|Single
+840|Bachelor|Marketing|Married
+842|Below College|Medical|Single
+843|College|Life Sciences|Married
+844|Below College|Technical Degree|Divorced
+845|Bachelor|Other|Single
+846|Master|Marketing|Married
+847|College|Human Resources|Married
+848|College|Medical|Married
+850|Bachelor|Medical|Married
+851|Master|Marketing|Married
+852|Bachelor|Medical|Single
+854|Below College|Medical|Single
+855|Bachelor|Medical|Divorced
+856|Below College|Medical|Single
+857|College|Life Sciences|Married
+859|Master|Life Sciences|Divorced
+861|Master|Life Sciences|Divorced
+862|College|Marketing|Married
+864|Bachelor|Marketing|Divorced
+865|College|Medical|Married
+867|Master|Medical|Married
+868|Master|Marketing|Divorced
+869|College|Medical|Divorced
+872|College|Life Sciences|Married
+874|Master|Life Sciences|Married
+875|Below College|Medical|Single
+878|Bachelor|Life Sciences|Married
+879|Below College|Other|Married
+880|Bachelor|Life Sciences|Married
+881|Master|Life Sciences|Divorced
+882|Bachelor|Life Sciences|Divorced
+885|Below College|Marketing|Married
+887|Bachelor|Technical Degree|Married
+888|Below College|Life Sciences|Married
+889|College|Life Sciences|Married
+893|Bachelor|Marketing|Married
+894|Bachelor|Life Sciences|Married
+895|Master|Life Sciences|Married
+896|Bachelor|Medical|Divorced
+897|Bachelor|Marketing|Married
+899|Bachelor|Technical Degree|Married
+900|College|Medical|Married
+901|Master|Life Sciences|Single
+902|Bachelor|Life Sciences|Married
+903|College|Marketing|Married
+904|College|Medical|Single
+905|Master|Life Sciences|Divorced
+909|Bachelor|Life Sciences|Married
+910|College|Human Resources|Divorced
+911|Master|Life Sciences|Single
+912|Below College|Medical|Divorced
+913|College|Life Sciences|Married
+916|Master|Medical|Single
+918|Below College|Life Sciences|Divorced
+920|Bachelor|Life Sciences|Divorced
+922|Bachelor|Medical|Single
+923|Below College|Other|Single
+924|Below College|Life Sciences|Married
+925|Master|Life Sciences|Single
+926|Below College|Life Sciences|Married
+927|Master|Life Sciences|Divorced
+930|Bachelor|Medical|Divorced
+932|Bachelor|Medical|Married
+933|Bachelor|Life Sciences|Single
+934|Bachelor|Life Sciences|Divorced
+936|College|Medical|Single
+939|Master|Other|Single
+940|Bachelor|Technical Degree|Divorced
+941|Master|Life Sciences|Married
+942|Below College|Life Sciences|Married
+944|College|Other|Married
+945|Master|Medical|Married
+947|College|Marketing|Married
+949|Master|Other|Single
+950|Bachelor|Technical Degree|Married
+951|Bachelor|Life Sciences|Married
+952|College|Marketing|Married
+954|Master|Marketing|Divorced
+956|Bachelor|Medical|Single
+957|Bachelor|Medical|Single
+958|Master|Medical|Single
+959|Bachelor|Other|Single
+960|Bachelor|Technical Degree|Single
+961|Bachelor|Medical|Married
+964|Master|Medical|Divorced
+966|Master|Medical|Married
+967|Below College|Life Sciences|Married
+969|Bachelor|Life Sciences|Single
+970|Master|Life Sciences|Married
+972|College|Life Sciences|Married
+974|Bachelor|Technical Degree|Married
+975|Bachelor|Medical|Married
+976|College|Life Sciences|Married
+977|Bachelor|Technical Degree|Single
+981|College|Medical|Divorced
+982|College|Other|Divorced
+983|Bachelor|Technical Degree|Single
+984|Master|Life Sciences|Divorced
+985|Doctor|Life Sciences|Single
+986|Bachelor|Life Sciences|Single
+987|Master|Medical|Divorced
+990|Master|Technical Degree|Divorced
+991|College|Medical|Single
+992|Bachelor|Life Sciences|Single
+994|Bachelor|Life Sciences|Single
+995|Below College|Life Sciences|Single
+996|Master|Medical|Divorced
+997|College|Medical|Divorced
+998|Master|Other|Married
+999|Bachelor|Medical|Divorced
+1001|Master|Technical Degree|Married
+1002|College|Life Sciences|Married
+1003|College|Life Sciences|Single
+1004|Bachelor|Life Sciences|Married
+1005|Bachelor|Life Sciences|Married
+1006|Below College|Medical|Married
+1007|College|Medical|Divorced
+1009|Below College|Medical|Divorced
+1010|Master|Other|Divorced
+1011|Below College|Life Sciences|Married
+1012|College|Life Sciences|Single
+1013|Bachelor|Technical Degree|Married
+1014|Master|Medical|Divorced
+1015|College|Life Sciences|Married
+1016|Bachelor|Medical|Single
+1017|Bachelor|Medical|Single
+1018|College|Medical|Married
+1019|Below College|Life Sciences|Married
+1022|Bachelor|Life Sciences|Single
+1024|Master|Life Sciences|Single
+1025|College|Medical|Single
+1026|Below College|Life Sciences|Married
+1027|Master|Life Sciences|Married
+1028|Bachelor|Other|Divorced
+1029|College|Marketing|Married
+1030|Bachelor|Life Sciences|Married
+1032|Bachelor|Life Sciences|Single
+1033|College|Medical|Married
+1034|Master|Medical|Married
+1035|Below College|Life Sciences|Divorced
+1036|Master|Life Sciences|Single
+1037|College|Medical|Single
+1038|Below College|Marketing|Married
+1039|Bachelor|Medical|Married
+1040|Bachelor|Life Sciences|Married
+1042|Master|Life Sciences|Single
+1043|Bachelor|Medical|Single
+1044|Below College|Life Sciences|Single
+1045|College|Life Sciences|Married
+1046|Master|Medical|Single
+1047|Master|Marketing|Divorced
+1048|College|Technical Degree|Married
+1049|Master|Medical|Single
+1050|Bachelor|Marketing|Married
+1052|Bachelor|Other|Divorced
+1053|Bachelor|Life Sciences|Married
+1055|Master|Life Sciences|Married
+1056|Below College|Medical|Married
+1060|Master|Other|Married
+1061|Master|Medical|Married
+1062|Bachelor|Other|Single
+1066|Bachelor|Marketing|Married
+1068|Below College|Medical|Divorced
+1069|Master|Medical|Divorced
+1070|Master|Life Sciences|Married
+1071|Bachelor|Medical|Married
+1073|Doctor|Medical|Single
+1074|Below College|Medical|Single
+1076|Bachelor|Medical|Divorced
+1077|Bachelor|Marketing|Single
+1079|Bachelor|Life Sciences|Single
+1080|Master|Life Sciences|Divorced
+1081|Master|Life Sciences|Married
+1082|College|Technical Degree|Single
+1083|College|Medical|Married
+1084|Bachelor|Other|Married
+1085|College|Technical Degree|Married
+1088|Below College|Life Sciences|Married
+1092|Master|Technical Degree|Married
+1094|Doctor|Life Sciences|Married
+1096|Below College|Life Sciences|Married
+1097|Bachelor|Other|Single
+1098|College|Medical|Married
+1099|Bachelor|Life Sciences|Divorced
+1100|Bachelor|Technical Degree|Single
+1101|Master|Medical|Single
+1102|College|Life Sciences|Divorced
+1103|Below College|Life Sciences|Single
+1105|Master|Life Sciences|Divorced
+1106|Below College|Technical Degree|Married
+1107|Bachelor|Medical|Divorced
+1108|Bachelor|Medical|Single
+1109|College|Medical|Married
+1111|Bachelor|Medical|Divorced
+1113|Master|Other|Single
+1114|Bachelor|Life Sciences|Married
+1115|Master|Life Sciences|Married
+1116|Master|Medical|Single
+1117|Master|Life Sciences|Married
+1118|Master|Life Sciences|Single
+1119|Master|Marketing|Divorced
+1120|Master|Life Sciences|Divorced
+1121|Bachelor|Medical|Divorced
+1124|Below College|Marketing|Married
+1125|College|Marketing|Single
+1126|Bachelor|Life Sciences|Married
+1127|Bachelor|Life Sciences|Divorced
+1128|Bachelor|Medical|Single
+1131|Below College|Technical Degree|Single
+1132|Bachelor|Life Sciences|Single
+1133|Master|Life Sciences|Single
+1135|Bachelor|Life Sciences|Married
+1136|Below College|Life Sciences|Married
+1137|College|Marketing|Divorced
+1138|Master|Technical Degree|Married
+1140|College|Life Sciences|Single
+1143|Bachelor|Life Sciences|Divorced
+1148|Bachelor|Medical|Single
+1150|Below College|Medical|Married
+1152|Bachelor|Human Resources|Married
+1154|Bachelor|Life Sciences|Divorced
+1156|Below College|Medical|Single
+1157|Master|Marketing|Single
+1158|Master|Life Sciences|Married
+1160|Bachelor|Medical|Married
+1161|College|Medical|Divorced
+1162|Bachelor|Life Sciences|Married
+1163|Below College|Life Sciences|Married
+1164|Master|Technical Degree|Single
+1165|Below College|Life Sciences|Married
+1166|Master|Medical|Single
+1167|Bachelor|Life Sciences|Single
+1171|Master|Marketing|Single
+1172|Master|Medical|Married
+1173|Bachelor|Medical|Single
+1175|Below College|Life Sciences|Married
+1177|Master|Medical|Married
+1179|Bachelor|Marketing|Married
+1180|College|Medical|Married
+1182|Bachelor|Life Sciences|Divorced
+1184|Bachelor|Medical|Single
+1185|Master|Other|Married
+1188|Bachelor|Marketing|Single
+1190|Below College|Life Sciences|Divorced
+1191|Master|Technical Degree|Divorced
+1192|Below College|Medical|Married
+1193|College|Life Sciences|Single
+1195|Bachelor|Medical|Married
+1196|Bachelor|Life Sciences|Married
+1198|Bachelor|Life Sciences|Single
+1200|Master|Life Sciences|Single
+1201|College|Medical|Divorced
+1202|Below College|Life Sciences|Married
+1203|Master|Life Sciences|Married
+1204|Bachelor|Marketing|Married
+1206|Bachelor|Life Sciences|Single
+1207|Bachelor|Human Resources|Married
+1210|College|Life Sciences|Divorced
+1211|Master|Life Sciences|Divorced
+1212|Master|Medical|Married
+1215|Bachelor|Medical|Married
+1216|Master|Medical|Married
+1217|College|Life Sciences|Married
+1218|Master|Life Sciences|Married
+1219|College|Life Sciences|Married
+1220|Bachelor|Medical|Married
+1221|Master|Life Sciences|Divorced
+1224|Master|Life Sciences|Divorced
+1225|Master|Other|Single
+1226|Bachelor|Marketing|Single
+1228|Master|Technical Degree|Divorced
+1231|Doctor|Medical|Married
+1233|Master|Marketing|Divorced
+1234|Bachelor|Other|Married
+1235|College|Life Sciences|Single
+1237|Bachelor|Technical Degree|Divorced
+1238|Bachelor|Medical|Married
+1239|Bachelor|Technical Degree|Divorced
+1240|Master|Life Sciences|Single
+1241|Bachelor|Medical|Married
+1242|Doctor|Medical|Married
+1243|College|Marketing|Married
+1244|Bachelor|Life Sciences|Married
+1245|Master|Life Sciences|Divorced
+1246|Below College|Life Sciences|Married
+1248|Bachelor|Medical|Single
+1249|Bachelor|Life Sciences|Divorced
+1250|Bachelor|Life Sciences|Married
+1251|College|Medical|Married
+1252|Bachelor|Medical|Single
+1254|Bachelor|Life Sciences|Single
+1255|Bachelor|Life Sciences|Married
+1256|College|Medical|Married
+1257|Bachelor|Technical Degree|Married
+1258|College|Technical Degree|Single
+1259|College|Life Sciences|Divorced
+1260|Bachelor|Life Sciences|Divorced
+1263|Bachelor|Life Sciences|Single
+1264|Bachelor|Life Sciences|Divorced
+1265|Bachelor|Technical Degree|Married
+1267|Bachelor|Marketing|Married
+1268|Doctor|Marketing|Divorced
+1269|Bachelor|Life Sciences|Single
+1270|College|Life Sciences|Married
+1273|Below College|Life Sciences|Single
+1275|College|Life Sciences|Single
+1277|Bachelor|Marketing|Single
+1278|Below College|Medical|Divorced
+1279|College|Life Sciences|Single
+1280|College|Marketing|Married
+1281|Bachelor|Marketing|Single
+1282|Bachelor|Life Sciences|Divorced
+1283|Master|Medical|Single
+1285|Bachelor|Medical|Divorced
+1286|Master|Medical|Single
+1288|College|Life Sciences|Divorced
+1289|Bachelor|Life Sciences|Married
+1291|Below College|Life Sciences|Married
+1292|Master|Medical|Married
+1293|Master|Marketing|Single
+1294|Master|Life Sciences|Single
+1295|Bachelor|Medical|Married
+1296|Bachelor|Life Sciences|Married
+1297|College|Medical|Single
+1298|College|Medical|Single
+1299|Bachelor|Technical Degree|Divorced
+1301|Bachelor|Technical Degree|Single
+1303|Bachelor|Medical|Single
+1304|Bachelor|Medical|Married
+1306|Bachelor|Medical|Single
+1307|Master|Medical|Divorced
+1308|Master|Life Sciences|Divorced
+1309|College|Life Sciences|Married
+1310|Bachelor|Medical|Single
+1311|Bachelor|Technical Degree|Married
+1312|Master|Technical Degree|Married
+1314|College|Life Sciences|Single
+1315|Bachelor|Life Sciences|Married
+1317|Bachelor|Life Sciences|Married
+1318|Master|Marketing|Single
+1319|Bachelor|Life Sciences|Single
+1321|Master|Medical|Married
+1322|College|Life Sciences|Single
+1324|Master|Life Sciences|Divorced
+1329|College|Medical|Single
+1331|Bachelor|Life Sciences|Single
+1333|Bachelor|Life Sciences|Married
+1334|Below College|Life Sciences|Married
+1336|College|Medical|Married
+1338|Master|Life Sciences|Single
+1340|College|Life Sciences|Divorced
+1344|Bachelor|Life Sciences|Divorced
+1346|Bachelor|Life Sciences|Single
+1349|Bachelor|Marketing|Divorced
+1350|Master|Life Sciences|Single
+1352|Bachelor|Life Sciences|Divorced
+1355|College|Life Sciences|Divorced
+1356|College|Medical|Single
+1358|Below College|Medical|Married
+1360|Master|Medical|Married
+1361|Master|Life Sciences|Married
+1362|Bachelor|Marketing|Married
+1363|Bachelor|Life Sciences|Single
+1364|Bachelor|Medical|Married
+1367|College|Technical Degree|Single
+1368|Bachelor|Life Sciences|Single
+1369|Bachelor|Medical|Married
+1371|Below College|Life Sciences|Single
+1372|Master|Marketing|Single
+1373|Bachelor|Life Sciences|Married
+1374|Below College|Technical Degree|Divorced
+1375|Below College|Medical|Divorced
+1377|Bachelor|Medical|Married
+1379|Bachelor|Life Sciences|Single
+1380|Master|Marketing|Married
+1382|Bachelor|Life Sciences|Divorced
+1383|Master|Technical Degree|Single
+1387|Bachelor|Life Sciences|Married
+1389|Master|Medical|Married
+1390|Master|Life Sciences|Married
+1391|Bachelor|Marketing|Married
+1392|Bachelor|Life Sciences|Divorced
+1394|Below College|Life Sciences|Married
+1395|Below College|Life Sciences|Married
+1396|Below College|Marketing|Married
+1397|College|Life Sciences|Married
+1399|Below College|Life Sciences|Married
+1401|College|Medical|Married
+1402|Bachelor|Medical|Single
+1403|Bachelor|Marketing|Married
+1405|Master|Life Sciences|Single
+1407|Below College|Medical|Single
+1408|Bachelor|Human Resources|Married
+1409|Master|Other|Married
+1411|Bachelor|Medical|Single
+1412|College|Life Sciences|Single
+1415|Bachelor|Technical Degree|Married
+1417|Bachelor|Other|Single
+1419|Bachelor|Other|Single
+1420|College|Life Sciences|Single
+1421|Below College|Other|Single
+1422|Bachelor|Medical|Single
+1423|Bachelor|Medical|Married
+1424|Master|Medical|Divorced
+1425|Master|Marketing|Single
+1427|Master|Life Sciences|Single
+1428|Master|Marketing|Divorced
+1430|Doctor|Life Sciences|Single
+1431|Master|Other|Divorced
+1433|Bachelor|Life Sciences|Single
+1434|Below College|Life Sciences|Married
+1435|Master|Life Sciences|Single
+1436|Master|Marketing|Married
+1438|Bachelor|Technical Degree|Married
+1439|College|Life Sciences|Married
+1440|College|Technical Degree|Single
+1441|College|Life Sciences|Married
+1443|Master|Medical|Married
+1445|Below College|Medical|Married
+1446|Doctor|Marketing|Married
+1447|Bachelor|Life Sciences|Married
+1448|Doctor|Medical|Married
+1449|Master|Other|Divorced
+1453|College|Life Sciences|Divorced
+1457|Bachelor|Marketing|Divorced
+1458|Bachelor|Life Sciences|Single
+1459|Doctor|Life Sciences|Single
+1460|Bachelor|Medical|Divorced
+1461|College|Medical|Single
+1464|Bachelor|Life Sciences|Married
+1465|Bachelor|Technical Degree|Married
+1466|Bachelor|Marketing|Divorced
+1467|Master|Technical Degree|Married
+1468|Below College|Medical|Divorced
+1469|Bachelor|Medical|Single
+1471|Bachelor|Life Sciences|Single
+1472|Bachelor|Medical|Single
+1473|Master|Technical Degree|Married
+1474|Bachelor|Medical|Divorced
+1475|Bachelor|Life Sciences|Single
+1477|Bachelor|Medical|Married
+1478|Bachelor|Other|Single
+1479|Below College|Life Sciences|Married
+1480|College|Medical|Single
+1481|Doctor|Marketing|Married
+1482|Bachelor|Technical Degree|Divorced
+1483|College|Life Sciences|Married
+1484|Master|Life Sciences|Divorced
+1485|Bachelor|Medical|Divorced
+1486|Bachelor|Technical Degree|Married
+1487|Bachelor|Technical Degree|Single
+1489|Master|Medical|Single
+1492|Below College|Life Sciences|Married
+1494|Bachelor|Medical|Single
+1495|College|Life Sciences|Married
+1496|Below College|Medical|Single
+1497|Bachelor|Life Sciences|Divorced
+1499|Bachelor|Life Sciences|Divorced
+1501|Master|Life Sciences|Married
+1502|Master|Medical|Married
+1503|Bachelor|Medical|Married
+1504|College|Medical|Single
+1506|Bachelor|Life Sciences|Divorced
+1507|Bachelor|Life Sciences|Single
+1509|College|Medical|Married
+1513|Below College|Life Sciences|Married
+1514|Below College|Life Sciences|Married
+1515|Doctor|Life Sciences|Single
+1516|Bachelor|Medical|Single
+1520|Master|Medical|Divorced
+1522|Master|Technical Degree|Single
+1523|Bachelor|Life Sciences|Married
+1525|Bachelor|Life Sciences|Single
+1527|Bachelor|Life Sciences|Married
+1529|Bachelor|Life Sciences|Single
+1533|Below College|Life Sciences|Single
+1534|Master|Life Sciences|Single
+1535|Bachelor|Technical Degree|Married
+1537|Bachelor|Life Sciences|Single
+1539|Doctor|Medical|Single
+1541|College|Technical Degree|Married
+1542|Bachelor|Medical|Married
+1543|Bachelor|Medical|Married
+1544|Below College|Other|Married
+1545|Bachelor|Life Sciences|Single
+1546|Bachelor|Technical Degree|Married
+1547|Bachelor|Life Sciences|Married
+1548|College|Medical|Married
+1549|Master|Life Sciences|Married
+1550|College|Medical|Single
+1551|College|Technical Degree|Divorced
+1552|College|Life Sciences|Divorced
+1553|Master|Technical Degree|Divorced
+1554|Master|Life Sciences|Married
+1555|College|Life Sciences|Married
+1556|Master|Life Sciences|Single
+1557|Master|Life Sciences|Divorced
+1558|Bachelor|Life Sciences|Married
+1560|Master|Life Sciences|Married
+1562|Bachelor|Life Sciences|Married
+1563|Master|Human Resources|Married
+1564|Bachelor|Medical|Single
+1568|Master|Technical Degree|Married
+1569|Bachelor|Life Sciences|Divorced
+1572|Doctor|Technical Degree|Married
+1573|Bachelor|Medical|Married
+1574|Master|Technical Degree|Married
+1576|Master|Other|Married
+1577|Master|Medical|Single
+1578|Doctor|Marketing|Married
+1580|Master|Life Sciences|Married
+1581|Bachelor|Life Sciences|Married
+1582|Bachelor|Life Sciences|Married
+1583|Bachelor|Life Sciences|Single
+1585|Master|Life Sciences|Single
+1586|Below College|Medical|Single
+1587|Master|Medical|Single
+1588|Bachelor|Medical|Married
+1590|Below College|Life Sciences|Divorced
+1591|Bachelor|Marketing|Married
+1592|Bachelor|Technical Degree|Married
+1594|Master|Life Sciences|Married
+1595|College|Other|Single
+1596|Bachelor|Life Sciences|Married
+1597|Master|Technical Degree|Married
+1598|College|Life Sciences|Married
+1599|Bachelor|Technical Degree|Divorced
+1601|College|Life Sciences|Married
+1602|Master|Life Sciences|Single
+1604|Bachelor|Medical|Married
+1605|College|Other|Married
+1606|Doctor|Medical|Married
+1607|Master|Other|Married
+1608|Bachelor|Medical|Divorced
+1609|Bachelor|Medical|Married
+1611|Doctor|Medical|Single
+1612|Bachelor|Marketing|Married
+1613|Master|Other|Single
+1614|Master|Life Sciences|Married
+1615|Master|Life Sciences|Divorced
+1617|Master|Life Sciences|Married
+1618|Doctor|Medical|Married
+1619|Bachelor|Other|Divorced
+1621|Doctor|Life Sciences|Married
+1622|Bachelor|Medical|Divorced
+1623|Below College|Medical|Single
+1624|College|Medical|Single
+1625|Master|Life Sciences|Married
+1627|College|Medical|Divorced
+1628|Bachelor|Life Sciences|Married
+1630|Master|Life Sciences|Married
+1631|Bachelor|Life Sciences|Married
+1633|Bachelor|Medical|Single
+1635|College|Other|Divorced
+1638|College|Medical|Married
+1639|Bachelor|Medical|Married
+1640|Bachelor|Medical|Married
+1641|Bachelor|Life Sciences|Single
+1642|Doctor|Human Resources|Married
+1644|Doctor|Medical|Married
+1645|College|Medical|Divorced
+1646|Below College|Technical Degree|Single
+1647|Bachelor|Medical|Married
+1648|Bachelor|Medical|Single
+1649|Bachelor|Life Sciences|Single
+1650|Bachelor|Medical|Single
+1651|Master|Life Sciences|Married
+1653|Below College|Life Sciences|Divorced
+1654|Bachelor|Medical|Married
+1655|Master|Other|Married
+1656|Doctor|Life Sciences|Divorced
+1657|Bachelor|Medical|Single
+1658|Bachelor|Life Sciences|Divorced
+1659|Bachelor|Life Sciences|Single
+1661|Below College|Life Sciences|Married
+1662|Master|Medical|Married
+1664|College|Life Sciences|Divorced
+1665|Doctor|Medical|Married
+1666|College|Life Sciences|Married
+1667|Master|Other|Single
+1668|Bachelor|Life Sciences|Married
+1669|Bachelor|Medical|Divorced
+1670|Master|Medical|Divorced
+1671|Bachelor|Medical|Divorced
+1673|Master|Life Sciences|Married
+1674|Bachelor|Medical|Divorced
+1675|Bachelor|Medical|Single
+1676|Master|Life Sciences|Divorced
+1677|Bachelor|Life Sciences|Single
+1678|College|Life Sciences|Single
+1680|Below College|Life Sciences|Single
+1681|Bachelor|Life Sciences|Divorced
+1682|Master|Life Sciences|Married
+1683|Bachelor|Life Sciences|Divorced
+1684|Below College|Medical|Single
+1687|College|Medical|Married
+1689|Master|Medical|Married
+1691|College|Medical|Married
+1692|Master|Life Sciences|Single
+1693|Bachelor|Medical|Single
+1694|Bachelor|Technical Degree|Divorced
+1696|College|Medical|Married
+1697|Master|Medical|Divorced
+1698|Bachelor|Medical|Married
+1700|Master|Medical|Divorced
+1701|Bachelor|Life Sciences|Married
+1702|Bachelor|Life Sciences|Divorced
+1703|Bachelor|Life Sciences|Married
+1704|Master|Medical|Single
+1706|Bachelor|Medical|Married
+1707|Bachelor|Medical|Married
+1708|Bachelor|Marketing|Single
+1709|Master|Medical|Married
+1710|Master|Life Sciences|Single
+1712|Below College|Life Sciences|Married
+1714|Below College|Human Resources|Married
+1716|Bachelor|Life Sciences|Married
+1718|Master|Medical|Married
+1719|College|Technical Degree|Single
+1720|Bachelor|Life Sciences|Married
+1721|Master|Life Sciences|Married
+1722|Bachelor|Human Resources|Married
+1724|College|Life Sciences|Married
+1725|Below College|Medical|Divorced
+1727|Master|Life Sciences|Single
+1728|Master|Life Sciences|Married
+1729|Below College|Life Sciences|Married
+1731|Master|Marketing|Married
+1732|Bachelor|Life Sciences|Divorced
+1733|Doctor|Marketing|Divorced
+1734|College|Life Sciences|Single
+1735|Below College|Medical|Single
+1736|Below College|Technical Degree|Single
+1737|Bachelor|Life Sciences|Married
+1739|Bachelor|Life Sciences|Married
+1740|Master|Medical|Single
+1744|Bachelor|Life Sciences|Married
+1745|Master|Technical Degree|Single
+1746|Bachelor|Medical|Married
+1747|Bachelor|Human Resources|Divorced
+1749|Bachelor|Technical Degree|Married
+1751|Bachelor|Medical|Single
+1752|Bachelor|Marketing|Single
+1753|Bachelor|Life Sciences|Single
+1754|College|Marketing|Divorced
+1755|Master|Medical|Married
+1756|Bachelor|Marketing|Single
+1757|Master|Marketing|Single
+1758|Bachelor|Life Sciences|Single
+1760|College|Medical|Married
+1761|Master|Marketing|Married
+1762|Bachelor|Technical Degree|Divorced
+1763|Bachelor|Life Sciences|Married
+1764|Master|Technical Degree|Single
+1766|Bachelor|Medical|Married
+1767|Bachelor|Technical Degree|Married
+1768|Bachelor|Medical|Divorced
+1770|Bachelor|Medical|Married
+1771|Bachelor|Technical Degree|Divorced
+1772|Master|Life Sciences|Divorced
+1774|Bachelor|Life Sciences|Divorced
+1775|Master|Medical|Married
+1778|Bachelor|Life Sciences|Single
+1779|College|Life Sciences|Single
+1780|Below College|Marketing|Single
+1782|College|Other|Married
+1783|Below College|Medical|Married
+1784|Master|Marketing|Married
+1786|Bachelor|Technical Degree|Married
+1787|College|Marketing|Married
+1789|Master|Medical|Divorced
+1790|Bachelor|Life Sciences|Married
+1792|College|Medical|Divorced
+1794|College|Other|Divorced
+1797|Bachelor|Life Sciences|Single
+1798|Master|Life Sciences|Married
+1799|Bachelor|Life Sciences|Married
+1800|Below College|Medical|Single
+1801|College|Life Sciences|Single
+1802|College|Life Sciences|Married
+1803|Bachelor|Medical|Married
+1804|College|Medical|Divorced
+1805|Bachelor|Human Resources|Divorced
+1807|Master|Life Sciences|Married
+1809|Master|Medical|Single
+1812|Bachelor|Life Sciences|Divorced
+1813|Bachelor|Life Sciences|Single
+1814|Bachelor|Life Sciences|Single
+1815|Below College|Marketing|Divorced
+1816|Bachelor|Medical|Single
+1818|College|Medical|Married
+1821|College|Medical|Married
+1822|Bachelor|Life Sciences|Divorced
+1823|College|Technical Degree|Married
+1824|Bachelor|Medical|Divorced
+1826|Master|Medical|Married
+1827|Bachelor|Life Sciences|Divorced
+1829|Bachelor|Life Sciences|Divorced
+1830|Master|Medical|Married
+1833|Master|Marketing|Married
+1834|Bachelor|Medical|Married
+1835|Master|Marketing|Married
+1836|Bachelor|Medical|Single
+1837|Master|Life Sciences|Married
+1839|Bachelor|Medical|Single
+1842|Doctor|Human Resources|Married
+1844|Bachelor|Human Resources|Divorced
+1845|Master|Life Sciences|Married
+1847|Master|Other|Married
+1849|Master|Life Sciences|Married
+1850|College|Life Sciences|Single
+1852|Below College|Medical|Married
+1853|Master|Marketing|Single
+1854|Master|Technical Degree|Married
+1856|Master|Life Sciences|Single
+1857|College|Life Sciences|Divorced
+1858|College|Life Sciences|Divorced
+1859|Below College|Life Sciences|Divorced
+1860|Bachelor|Life Sciences|Single
+1862|Master|Marketing|Single
+1863|Bachelor|Technical Degree|Divorced
+1864|Below College|Medical|Married
+1865|Below College|Medical|Married
+1866|Bachelor|Medical|Married
+1867|Bachelor|Life Sciences|Married
+1868|College|Life Sciences|Single
+1869|Bachelor|Life Sciences|Married
+1870|Bachelor|Life Sciences|Married
+1871|Master|Other|Divorced
+1873|Master|Technical Degree|Married
+1875|Bachelor|Medical|Married
+1876|Bachelor|Medical|Single
+1878|Below College|Life Sciences|Single
+1880|Master|Technical Degree|Married
+1881|Bachelor|Life Sciences|Divorced
+1882|Bachelor|Life Sciences|Married
+1883|Bachelor|Life Sciences|Single
+1885|Master|Medical|Married
+1886|College|Other|Married
+1888|College|Life Sciences|Married
+1890|Below College|Human Resources|Single
+1892|Master|Life Sciences|Divorced
+1893|College|Life Sciences|Married
+1898|College|Medical|Single
+1900|Bachelor|Medical|Divorced
+1903|Master|Life Sciences|Married
+1905|Master|Technical Degree|Married
+1907|College|Life Sciences|Single
+1908|College|Marketing|Married
+1909|Bachelor|Marketing|Married
+1911|Bachelor|Medical|Married
+1912|College|Medical|Divorced
+1915|Below College|Medical|Married
+1916|Bachelor|Medical|Divorced
+1918|Bachelor|Other|Married
+1922|Master|Medical|Single
+1924|Master|Marketing|Single
+1927|College|Life Sciences|Married
+1928|Bachelor|Technical Degree|Single
+1929|Master|Life Sciences|Married
+1931|Master|Technical Degree|Married
+1932|Master|Other|Married
+1933|College|Marketing|Single
+1934|Master|Technical Degree|Married
+1935|Doctor|Marketing|Married
+1936|College|Medical|Married
+1937|Bachelor|Medical|Divorced
+1938|Bachelor|Life Sciences|Married
+1939|College|Life Sciences|Single
+1940|College|Life Sciences|Divorced
+1941|Below College|Life Sciences|Married
+1943|Master|Marketing|Divorced
+1944|Bachelor|Human Resources|Married
+1945|Master|Medical|Married
+1947|Bachelor|Medical|Single
+1948|College|Medical|Divorced
+1949|Master|Life Sciences|Married
+1950|Bachelor|Marketing|Single
+1951|Master|Medical|Divorced
+1952|Bachelor|Medical|Single
+1954|Bachelor|Life Sciences|Married
+1955|Master|Medical|Divorced
+1956|Bachelor|Life Sciences|Married
+1960|Bachelor|Technical Degree|Divorced
+1961|Bachelor|Life Sciences|Single
+1962|Master|Life Sciences|Married
+1965|Bachelor|Marketing|Single
+1966|Master|Life Sciences|Single
+1967|Master|Marketing|Married
+1968|Master|Life Sciences|Single
+1969|College|Life Sciences|Married
+1970|College|Life Sciences|Divorced
+1971|Bachelor|Life Sciences|Married
+1972|Master|Other|Married
+1973|Master|Human Resources|Married
+1974|Below College|Medical|Divorced
+1975|Master|Marketing|Single
+1976|College|Life Sciences|Single
+1979|Bachelor|Medical|Married
+1980|Bachelor|Medical|Single
+1981|College|Life Sciences|Single
+1982|College|Other|Single
+1985|Bachelor|Technical Degree|Married
+1986|College|Marketing|Married
+1987|Bachelor|Human Resources|Married
+1989|College|Medical|Married
+1992|Below College|Other|Divorced
+1993|Bachelor|Medical|Single
+1994|College|Medical|Divorced
+1995|Master|Life Sciences|Married
+1996|College|Life Sciences|Married
+1997|Master|Life Sciences|Married
+1998|Master|Life Sciences|Divorced
+1999|Bachelor|Life Sciences|Married
+2000|Below College|Medical|Married
+2003|Master|Medical|Married
+2007|College|Life Sciences|Single
+2008|Master|Medical|Single
+2009|College|Medical|Married
+2010|Master|Life Sciences|Single
+2012|Master|Life Sciences|Married
+2013|Master|Medical|Married
+2014|Below College|Life Sciences|Single
+2015|Bachelor|Medical|Married
+2016|Master|Marketing|Married
+2017|Bachelor|Life Sciences|Married
+2018|College|Other|Divorced
+2019|Master|Life Sciences|Divorced
+2020|Bachelor|Medical|Single
+2021|Below College|Medical|Single
+2022|Bachelor|Life Sciences|Single
+2023|Bachelor|Marketing|Married
+2024|Bachelor|Medical|Married
+2025|College|Life Sciences|Divorced
+2026|Master|Life Sciences|Divorced
+2027|Master|Medical|Married
+2031|Bachelor|Life Sciences|Married
+2032|College|Technical Degree|Married
+2034|Master|Life Sciences|Married
+2035|Bachelor|Marketing|Married
+2036|Master|Marketing|Divorced
+2037|Bachelor|Life Sciences|Divorced
+2038|Bachelor|Technical Degree|Single
+2040|Master|Life Sciences|Single
+2041|College|Life Sciences|Married
+2044|Master|Life Sciences|Divorced
+2045|Master|Marketing|Married
+2046|Bachelor|Life Sciences|Single
+2048|Master|Life Sciences|Single
+2049|Master|Life Sciences|Married
+2051|Master|Medical|Married
+2052|Master|Life Sciences|Married
+2053|College|Other|Married
+2054|Master|Medical|Single
+2055|Bachelor|Marketing|Divorced
+2056|Below College|Marketing|Married
+2057|Bachelor|Medical|Single
+2060|Bachelor|Other|Single
+2061|College|Medical|Married
+2062|Below College|Medical|Married
+2064|Bachelor|Life Sciences|Married
+2065|Bachelor|Medical|Married
+2068|Bachelor|Medical|Married

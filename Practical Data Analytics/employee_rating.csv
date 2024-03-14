@@ -1,0 +1,1471 @@
+EmployeeNumber,Department,EnvironmentSatisfaction,JobRole,PerformanceRating,YearsAtCompany,YearsInCurrentRole,MonthlyIncome
+1,Sales,Medium,Sales Executive,Excellent,6,4,5993
+2,Research & Development,High,Research Scientist,Outstanding,10,7,5130
+4,Research & Development,Very High,Laboratory Technician,Excellent,0,0,2090
+5,Research & Development,Very High,Research Scientist,Excellent,8,7,2909
+7,Research & Development,Low,Laboratory Technician,Excellent,2,2,3468
+8,Research & Development,Very High,Laboratory Technician,Excellent,7,7,3068
+10,Research & Development,High,Laboratory Technician,Outstanding,1,0,2670
+11,Research & Development,Very High,Laboratory Technician,Outstanding,1,0,2693
+12,Research & Development,Very High,Manufacturing Director,Outstanding,9,7,9526
+13,Research & Development,High,Healthcare Representative,Excellent,7,7,5237
+14,Research & Development,Low,Laboratory Technician,Excellent,5,4,2426
+15,Research & Development,Very High,Laboratory Technician,Excellent,9,5,4193
+16,Research & Development,Low,Research Scientist,Excellent,5,2,2911
+18,Research & Development,Medium,Laboratory Technician,Excellent,2,2,2661
+19,Research & Development,High,Laboratory Technician,Excellent,4,2,2028
+20,Research & Development,Medium,Manufacturing Director,Excellent,10,9,9980
+21,Research & Development,Low,Research Scientist,Excellent,6,2,3298
+22,Research & Development,Very High,Laboratory Technician,Excellent,1,0,2935
+23,Sales,Low,Manager,Excellent,25,8,15427
+24,Research & Development,Very High,Research Scientist,Excellent,3,2,3944
+26,Research & Development,Low,Manufacturing Director,Excellent,4,2,4011
+27,Sales,High,Sales Representative,Outstanding,5,3,3407
+28,Research & Development,Low,Research Director,Excellent,12,6,11994
+30,Research & Development,High,Research Scientist,Excellent,0,0,1232
+31,Research & Development,Medium,Research Scientist,Excellent,4,2,2960
+32,Research & Development,High,Manager,Excellent,14,13,19094
+33,Research & Development,Medium,Research Scientist,Outstanding,10,2,3919
+35,Sales,High,Sales Executive,Excellent,9,7,6825
+36,Research & Development,Low,Healthcare Representative,Excellent,22,6,10248
+38,Sales,Medium,Manager,Excellent,2,2,18947
+39,Research & Development,High,Laboratory Technician,Excellent,1,1,2496
+40,Research & Development,Very High,Healthcare Representative,Excellent,4,2,6465
+41,Research & Development,Very High,Laboratory Technician,Excellent,10,0,2206
+42,Sales,Very High,Sales Representative,Excellent,1,0,2086
+45,Research & Development,Medium,Research Scientist,Excellent,2,0,2293
+46,Research & Development,Very High,Research Scientist,Excellent,5,3,2645
+47,Sales,Low,Sales Representative,Excellent,3,2,2683
+49,Sales,Very High,Sales Representative,Excellent,2,2,2014
+51,Research & Development,Medium,Research Scientist,Excellent,1,1,3419
+52,Sales,High,Sales Executive,Excellent,5,3,5376
+53,Research & Development,High,Laboratory Technician,Excellent,1,0,1951
+54,Research & Development,Very High,Laboratory Technician,Excellent,1,0,2341
+55,Research & Development,Low,Laboratory Technician,Excellent,1,0,2293
+56,Sales,Very High,Sales Executive,Excellent,9,8,8726
+57,Research & Development,High,Laboratory Technician,Outstanding,12,8,4011
+58,Research & Development,Medium,Research Director,Excellent,22,15,19545
+60,Sales,Medium,Sales Executive,Outstanding,9,5,4568
+61,Research & Development,Medium,Research Scientist,Outstanding,1,0,3022
+62,Sales,Low,Sales Executive,Outstanding,9,6,5772
+63,Research & Development,Very High,Laboratory Technician,Excellent,1,0,2269
+64,Research & Development,Low,Laboratory Technician,Excellent,1,0,5381
+65,Research & Development,High,Laboratory Technician,Excellent,2,2,3441
+68,Sales,Medium,Sales Executive,Outstanding,4,3,5454
+70,Research & Development,High,Healthcare Representative,Excellent,4,0,9884
+72,Sales,High,Sales Executive,Excellent,2,2,4157
+73,Research & Development,Low,Research Director,Excellent,15,14,13458
+74,Sales,Medium,Sales Executive,Outstanding,9,8,9069
+75,Research & Development,High,Laboratory Technician,Excellent,2,2,4014
+76,Research & Development,Very High,Laboratory Technician,Outstanding,7,7,5915
+77,Research & Development,Low,Manufacturing Director,Excellent,7,5,5993
+78,Research & Development,Low,Manufacturing Director,Outstanding,9,8,6162
+79,Research & Development,Very High,Laboratory Technician,Excellent,10,3,2406
+80,Research & Development,Medium,Research Director,Excellent,27,3,18740
+81,Sales,Low,Sales Executive,Excellent,21,16,7637
+83,Research & Development,High,Healthcare Representative,Excellent,17,14,10096
+84,Research & Development,Very High,Manager,Excellent,5,0,14756
+85,Research & Development,Medium,Manufacturing Director,Excellent,6,5,6499
+86,Research & Development,Medium,Research Scientist,Excellent,1,0,9724
+88,Research & Development,Medium,Research Scientist,Excellent,3,2,2194
+90,Research & Development,Very High,Research Scientist,Excellent,1,0,3388
+91,Sales,Low,Sales Executive,Excellent,4,3,5473
+94,Research & Development,High,Research Scientist,Outstanding,5,4,2703
+95,Research & Development,High,Research Scientist,Excellent,1,1,2501
+96,Research & Development,Medium,Research Scientist,Excellent,10,4,6220
+97,Research & Development,Medium,Laboratory Technician,Excellent,1,0,3038
+98,Research & Development,High,Manufacturing Director,Outstanding,11,7,4424
+100,Sales,High,Sales Executive,Excellent,15,13,4312
+101,Research & Development,Very High,Research Director,Excellent,0,0,13245
+102,Research & Development,Low,Research Director,Excellent,5,2,13664
+103,Human Resources,Medium,Human Resources,Outstanding,4,2,5021
+104,Research & Development,Very High,Laboratory Technician,Excellent,10,8,5126
+105,Research & Development,Medium,Research Scientist,Excellent,6,4,2859
+106,Sales,Low,Sales Executive,Excellent,1,0,10239
+107,Research & Development,Medium,Research Scientist,Excellent,13,11,5329
+110,Research & Development,Low,Manufacturing Director,Excellent,5,2,4325
+112,Research & Development,Very High,Manufacturing Director,Excellent,6,4,7260
+113,Sales,High,Sales Representative,Excellent,0,0,2322
+116,Research & Development,Very High,Laboratory Technician,Outstanding,4,2,2075
+117,Research & Development,High,Healthcare Representative,Excellent,11,10,4152
+118,Sales,High,Sales Executive,Excellent,9,8,9619
+119,Research & Development,High,Healthcare Representative,Outstanding,22,3,13503
+120,Sales,High,Sales Executive,Outstanding,10,7,5441
+121,Sales,High,Sales Executive,Excellent,11,8,5209
+124,Research & Development,High,Healthcare Representative,Excellent,10,9,10673
+125,Sales,Medium,Sales Executive,Excellent,11,8,5010
+126,Research & Development,Low,Research Director,Excellent,4,3,13549
+128,Sales,Low,Sales Executive,Outstanding,3,2,4999
+129,Sales,Medium,Sales Executive,Excellent,5,4,4221
+131,Sales,Very High,Sales Executive,Excellent,37,10,13872
+132,Research & Development,Medium,Laboratory Technician,Excellent,3,2,2042
+133,Human Resources,High,Human Resources,Outstanding,3,2,2073
+134,Research & Development,Very High,Research Scientist,Excellent,1,0,2956
+137,Research & Development,Very High,Laboratory Technician,Excellent,1,0,2926
+138,Research & Development,Low,Research Scientist,Excellent,16,13,4809
+139,Research & Development,High,Healthcare Representative,Excellent,1,0,5163
+140,Human Resources,High,Manager,Outstanding,3,2,18844
+141,Research & Development,Low,Research Director,Excellent,8,3,18172
+142,Sales,High,Sales Executive,Excellent,6,4,5744
+143,Research & Development,Very High,Research Scientist,Excellent,2,2,2889
+144,Research & Development,Medium,Laboratory Technician,Excellent,0,0,2871
+145,Research & Development,Low,Healthcare Representative,Outstanding,13,12,7484
+147,Research & Development,Low,Laboratory Technician,Outstanding,9,7,6074
+148,Human Resources,Very High,Manager,Excellent,5,3,17328
+150,Research & Development,Medium,Laboratory Technician,Excellent,5,3,2774
+151,Research & Development,High,Research Scientist,Excellent,1,0,4505
+152,Sales,High,Sales Executive,Excellent,5,3,7428
+153,Research & Development,High,Manager,Excellent,11,10,11631
+154,Sales,Medium,Sales Executive,Excellent,9,7,9738
+155,Research & Development,Low,Laboratory Technician,Outstanding,1,0,2835
+158,Sales,High,Manager,Excellent,25,12,16959
+159,Research & Development,Low,Research Scientist,Outstanding,10,7,2613
+160,Sales,High,Sales Executive,Excellent,7,7,6146
+161,Research & Development,Medium,Research Scientist,Excellent,5,4,4963
+162,Research & Development,Low,Research Director,Excellent,20,18,19537
+163,Sales,Medium,Sales Executive,Excellent,7,7,6172
+164,Research & Development,High,Research Scientist,Excellent,5,4,2368
+165,Research & Development,Very High,Healthcare Representative,Excellent,40,10,10312
+167,Sales,Very High,Sales Representative,Excellent,0,0,1675
+169,Research & Development,High,Laboratory Technician,Excellent,2,1,2523
+170,Research & Development,High,Manufacturing Director,Excellent,15,11,6567
+171,Research & Development,Medium,Research Scientist,Excellent,3,2,4739
+174,Sales,High,Sales Executive,Excellent,2,2,9208
+175,Sales,Medium,Sales Executive,Excellent,2,2,4559
+176,Sales,High,Sales Executive,Excellent,9,7,8189
+177,Human Resources,High,Human Resources,Outstanding,8,7,2942
+178,Research & Development,Medium,Manufacturing Director,Outstanding,3,2,4941
+179,Research & Development,Low,Manufacturing Director,Excellent,4,2,10650
+182,Sales,Very High,Sales Executive,Excellent,15,11,5902
+183,Sales,Low,Sales Executive,Excellent,2,2,8639
+184,Human Resources,High,Human Resources,Excellent,11,9,6347
+190,Research & Development,Low,Laboratory Technician,Outstanding,5,4,4200
+192,Research & Development,High,Research Scientist,Excellent,6,5,3452
+193,Research & Development,Very High,Research Scientist,Outstanding,3,2,4317
+194,Research & Development,Low,Research Scientist,Excellent,5,4,2632
+195,Sales,Very High,Sales Executive,Excellent,8,7,4668
+197,Research & Development,Very High,Research Scientist,Excellent,3,2,3204
+198,Research & Development,Medium,Laboratory Technician,Excellent,5,3,2720
+199,Research & Development,Very High,Manager,Excellent,7,6,17181
+200,Research & Development,High,Laboratory Technician,Outstanding,5,0,2238
+201,Research & Development,Medium,Laboratory Technician,Excellent,1,0,1483
+202,Research & Development,Medium,Research Scientist,Excellent,20,7,5605
+204,Sales,High,Sales Executive,Excellent,10,8,7295
+205,Sales,Medium,Sales Representative,Outstanding,7,7,2306
+206,Research & Development,Medium,Laboratory Technician,Excellent,17,9,2348
+207,Sales,Medium,Sales Executive,Excellent,9,8,8998
+208,Research & Development,Very High,Manufacturing Director,Excellent,10,7,4319
+211,Research & Development,Medium,Manufacturing Director,Excellent,1,0,6132
+214,Research & Development,Medium,Research Scientist,Outstanding,1,0,3346
+215,Sales,High,Sales Executive,Excellent,12,11,10855
+216,Sales,High,Sales Representative,Excellent,4,3,2231
+217,Research & Development,High,Research Scientist,Outstanding,2,2,2323
+218,Research & Development,Very High,Research Scientist,Excellent,2,2,2024
+221,Research & Development,High,Research Scientist,Excellent,5,2,2713
+223,Research & Development,High,Healthcare Representative,Excellent,5,3,9439
+224,Research & Development,High,Research Scientist,Excellent,1,1,2566
+226,Research & Development,High,Manager,Excellent,5,4,19926
+227,Research & Development,Low,Research Scientist,Excellent,9,8,2451
+228,Sales,Medium,Sales Executive,Excellent,10,9,9419
+230,Sales,Low,Sales Executive,Outstanding,8,3,8686
+231,Research & Development,High,Research Scientist,Outstanding,5,4,3038
+233,Research & Development,High,Research Scientist,Excellent,5,2,3058
+235,Sales,High,Sales Representative,Outstanding,0,0,2325
+238,Research & Development,Very High,Laboratory Technician,Excellent,8,7,2088
+239,Research & Development,High,Laboratory Technician,Excellent,12,9,3072
+240,Sales,High,Sales Executive,Excellent,5,4,5006
+241,Research & Development,High,Research Scientist,Excellent,2,2,4257
+242,Research & Development,High,Research Scientist,Excellent,3,1,2500
+243,Research & Development,Medium,Laboratory Technician,Outstanding,1,0,1102
+244,Sales,Medium,Sales Executive,Outstanding,24,13,10453
+245,Research & Development,High,Laboratory Technician,Excellent,2,2,2288
+246,Research & Development,High,Research Scientist,Outstanding,4,2,3929
+247,Research & Development,Very High,Research Scientist,Excellent,3,2,2311
+248,Sales,Medium,Sales Representative,Outstanding,4,3,3140
+249,Research & Development,High,Laboratory Technician,Excellent,3,2,3690
+250,Research & Development,Very High,Manufacturing Director,Excellent,4,2,4450
+252,Research & Development,Very High,Research Scientist,Excellent,8,7,2756
+253,Research & Development,Very High,Manager,Excellent,20,8,19033
+254,Research & Development,High,Research Director,Excellent,24,15,18722
+256,Research & Development,Very High,Manufacturing Director,Excellent,10,9,9547
+258,Research & Development,Very High,Healthcare Representative,Excellent,7,7,13734
+259,Research & Development,High,Manager,Excellent,33,18,19999
+260,Research & Development,Very High,Research Scientist,Excellent,7,7,2279
+261,Research & Development,Medium,Manufacturing Director,Excellent,1,0,5916
+262,Research & Development,Very High,Research Scientist,Excellent,5,4,2089
+264,Research & Development,Low,Manager,Outstanding,20,8,16792
+267,Research & Development,Medium,Research Scientist,Excellent,8,7,3564
+269,Research & Development,Medium,Laboratory Technician,Excellent,6,2,4425
+270,Research & Development,High,Manufacturing Director,Excellent,5,3,5265
+271,Research & Development,Very High,Manufacturing Director,Excellent,1,0,6553
+273,Research & Development,Very High,Manufacturing Director,Excellent,7,7,6261
+274,Research & Development,High,Manufacturing Director,Excellent,2,2,4298
+275,Research & Development,Very High,Manufacturing Director,Excellent,7,7,6804
+277,Research & Development,Very High,Research Scientist,Excellent,5,3,3815
+281,Research & Development,High,Laboratory Technician,Excellent,7,2,2741
+282,Research & Development,Medium,Healthcare Representative,Excellent,1,0,6673
+283,Sales,Medium,Sales Executive,Outstanding,10,4,7639
+284,Research & Development,Very High,Research Scientist,Excellent,4,2,2328
+286,Research & Development,Medium,Laboratory Technician,Excellent,8,1,2153
+287,Research & Development,Very High,Healthcare Representative,Excellent,3,2,4876
+288,Research & Development,Very High,Healthcare Representative,Excellent,4,2,9396
+291,Sales,Very High,Sales Executive,Excellent,14,8,10400
+292,Research & Development,High,Manufacturing Director,Outstanding,11,8,8474
+293,Sales,Very High,Sales Executive,Excellent,7,7,9981
+296,Research & Development,Medium,Research Director,Excellent,10,9,12490
+297,Research & Development,Very High,Research Scientist,Excellent,5,2,2657
+298,Sales,Very High,Manager,Excellent,1,0,13591
+299,Sales,High,Sales Executive,Excellent,6,3,6696
+300,Research & Development,High,Research Scientist,Excellent,6,2,2058
+302,Sales,Very High,Sales Executive,Excellent,19,7,8865
+303,Sales,Very High,Sales Executive,Excellent,6,2,5940
+304,Research & Development,Very High,Laboratory Technician,Excellent,13,11,5914
+305,Research & Development,High,Research Scientist,Outstanding,3,2,2622
+306,Research & Development,Medium,Research Director,Excellent,10,8,12185
+307,Sales,Low,Sales Executive,Excellent,16,10,10609
+308,Research & Development,High,Manufacturing Director,Excellent,5,4,4345
+309,Research & Development,High,Research Scientist,Excellent,1,0,2177
+311,Sales,Low,Sales Representative,Excellent,9,8,2793
+312,Sales,Medium,Sales Executive,Excellent,11,10,7918
+314,Sales,High,Sales Executive,Excellent,10,7,8789
+315,Research & Development,High,Research Scientist,Excellent,4,3,2389
+316,Research & Development,High,Laboratory Technician,Excellent,2,2,3212
+319,Research & Development,High,Manager,Excellent,22,17,19232
+321,Human Resources,Medium,Human Resources,Excellent,2,2,2267
+323,Sales,Very High,Manager,Excellent,7,0,19517
+325,Research & Development,High,Laboratory Technician,Excellent,5,4,2436
+327,Sales,Very High,Manager,Outstanding,17,13,16064
+328,Research & Development,Low,Laboratory Technician,Outstanding,9,7,2707
+329,Sales,Low,Manager,Excellent,33,7,19068
+330,Sales,High,Sales Representative,Excellent,4,3,3931
+331,Research & Development,Very High,Laboratory Technician,Excellent,3,2,3730
+332,Research & Development,High,Laboratory Technician,Excellent,3,2,2232
+333,Sales,High,Sales Executive,Excellent,3,2,4465
+334,Research & Development,High,Research Scientist,Excellent,1,0,3072
+335,Research & Development,Low,Research Scientist,Excellent,9,8,3319
+336,Research & Development,High,Manager,Excellent,24,0,19202
+337,Research & Development,Medium,Research Director,Excellent,2,2,13675
+338,Research & Development,High,Research Scientist,Excellent,2,2,2911
+339,Research & Development,Very High,Manufacturing Director,Excellent,11,9,5957
+340,Research & Development,High,Research Scientist,Excellent,3,1,3920
+341,Research & Development,Low,Manufacturing Director,Excellent,3,2,6434
+342,Research & Development,Low,Manufacturing Director,Excellent,1,0,10048
+343,Research & Development,High,Healthcare Representative,Outstanding,19,6,10938
+346,Research & Development,High,Research Scientist,Excellent,6,5,2340
+347,Research & Development,Very High,Research Scientist,Excellent,3,2,6545
+349,Sales,Very High,Sales Executive,Excellent,3,2,6931
+350,Research & Development,Low,Manufacturing Director,Excellent,4,2,4898
+351,Research & Development,Very High,Laboratory Technician,Excellent,9,6,2593
+352,Research & Development,Low,Research Director,Excellent,21,7,19436
+353,Research & Development,High,Research Scientist,Excellent,1,0,2723
+355,Research & Development,High,Laboratory Technician,Excellent,5,4,3479
+359,Research & Development,Medium,Laboratory Technician,Outstanding,5,1,2794
+361,Sales,Very High,Sales Executive,Excellent,8,7,5249
+362,Research & Development,Very High,Laboratory Technician,Excellent,6,2,2176
+363,Sales,High,Manager,Excellent,7,7,16872
+364,Research & Development,Low,Laboratory Technician,Excellent,0,0,3485
+366,Sales,Low,Sales Executive,Excellent,0,0,6644
+367,Research & Development,Medium,Healthcare Representative,Outstanding,9,0,5582
+369,Research & Development,Medium,Healthcare Representative,Excellent,6,3,4000
+372,Research & Development,High,Healthcare Representative,Excellent,20,7,13496
+373,Research & Development,Very High,Laboratory Technician,Excellent,15,13,3210
+374,Research & Development,Very High,Manager,Excellent,36,10,19045
+376,Research & Development,Low,Manager,Excellent,10,7,11849
+377,Research & Development,Very High,Research Scientist,Outstanding,5,2,2070
+378,Sales,High,Sales Executive,Excellent,5,4,6502
+379,Research & Development,Very High,Research Scientist,Excellent,3,2,3230
+380,Research & Development,Low,Research Director,Excellent,5,2,13603
+381,Research & Development,Medium,Manager,Excellent,7,7,11996
+382,Sales,Low,Sales Executive,Outstanding,8,0,5605
+384,Research & Development,High,Manufacturing Director,Outstanding,6,5,6397
+385,Research & Development,Low,Research Director,Excellent,10,4,19144
+386,Research & Development,High,Research Director,Excellent,5,3,17584
+387,Sales,Medium,Sales Executive,Outstanding,20,16,4907
+388,Sales,Medium,Sales Executive,Excellent,10,7,4554
+389,Research & Development,Medium,Laboratory Technician,Excellent,10,7,5415
+390,Research & Development,Low,Healthcare Representative,Excellent,5,3,4741
+391,Research & Development,Very High,Research Scientist,Excellent,17,12,2115
+392,Research & Development,Very High,Laboratory Technician,Outstanding,1,0,3161
+393,Research & Development,Very High,Healthcare Representative,Excellent,2,2,5745
+394,Research & Development,Low,Laboratory Technician,Excellent,3,2,2373
+395,Research & Development,Very High,Research Scientist,Outstanding,5,3,3310
+396,Research & Development,High,Research Director,Excellent,3,2,18665
+397,Research & Development,High,Research Scientist,Excellent,8,0,4485
+399,Sales,Very High,Sales Representative,Excellent,2,2,2789
+401,Sales,Very High,Sales Executive,Excellent,8,7,5828
+403,Research & Development,Medium,Research Scientist,Excellent,4,2,2326
+404,Sales,High,Sales Executive,Excellent,20,4,13525
+405,Research & Development,High,Laboratory Technician,Excellent,0,0,1420
+406,Sales,High,Sales Executive,Excellent,11,9,8020
+407,Research & Development,High,Laboratory Technician,Excellent,1,0,3688
+408,Research & Development,Very High,Manufacturing Director,Excellent,4,1,5482
+410,Sales,Very High,Manager,Excellent,22,10,16015
+411,Sales,Very High,Sales Representative,Excellent,0,0,1200
+412,Research & Development,Medium,Healthcare Representative,Excellent,8,3,5661
+416,Sales,Medium,Sales Executive,Excellent,8,7,6929
+417,Research & Development,High,Healthcare Representative,Excellent,18,10,9613
+419,Research & Development,Medium,Laboratory Technician,Excellent,9,8,5674
+420,Sales,Very High,Sales Executive,Excellent,13,8,5484
+421,Research & Development,Low,Research Director,Excellent,10,8,12061
+422,Research & Development,Very High,Healthcare Representative,Excellent,5,3,5660
+423,Research & Development,High,Research Scientist,Excellent,5,2,4821
+424,Human Resources,Low,Human Resources,Excellent,2,2,6410
+425,Research & Development,Low,Laboratory Technician,Excellent,24,9,5210
+426,Research & Development,High,Research Scientist,Excellent,2,2,2695
+428,Research & Development,Very High,Manager,Excellent,10,6,11878
+429,Research & Development,High,Manager,Excellent,21,9,17068
+430,Research & Development,High,Laboratory Technician,Excellent,8,7,2455
+431,Research & Development,High,Healthcare Representative,Excellent,7,1,13964
+433,Research & Development,High,Research Scientist,Excellent,8,2,4941
+434,Research & Development,High,Research Scientist,Excellent,4,3,2478
+436,Sales,High,Sales Executive,Excellent,13,12,5228
+437,Sales,Very High,Sales Executive,Excellent,5,4,4478
+438,Sales,Very High,Sales Executive,Excellent,7,7,7547
+439,Research & Development,Low,Research Scientist,Excellent,7,7,5055
+440,Research & Development,Low,Research Scientist,Excellent,3,2,3464
+441,Research & Development,Very High,Research Scientist,Excellent,10,8,5775
+442,Research & Development,High,Manufacturing Director,Outstanding,10,9,8943
+444,Research & Development,High,Manager,Excellent,21,9,19272
+445,Sales,Very High,Sales Executive,Excellent,1,0,5238
+446,Sales,Medium,Sales Executive,Excellent,7,7,4682
+447,Research & Development,Very High,Research Director,Excellent,3,2,18300
+448,Research & Development,High,Laboratory Technician,Excellent,9,7,5257
+449,Sales,High,Sales Executive,Excellent,5,4,6349
+450,Research & Development,Very High,Research Scientist,Excellent,4,3,4869
+451,Research & Development,High,Healthcare Representative,Excellent,1,0,9985
+452,Research & Development,Very High,Research Scientist,Excellent,10,9,3697
+453,Sales,Medium,Sales Executive,Outstanding,4,3,7457
+454,Research & Development,Medium,Laboratory Technician,Excellent,7,7,2119
+455,Research & Development,Medium,Laboratory Technician,Excellent,3,2,3983
+456,Sales,Very High,Sales Executive,Excellent,10,9,6118
+458,Sales,Medium,Sales Executive,Excellent,8,7,6214
+460,Research & Development,Very High,Manufacturing Director,Excellent,6,2,6347
+461,Research & Development,High,Research Director,Excellent,11,10,11510
+462,Research & Development,High,Manufacturing Director,Excellent,11,9,7143
+463,Sales,Very High,Sales Executive,Excellent,7,7,8268
+464,Research & Development,High,Manufacturing Director,Excellent,16,6,8095
+465,Research & Development,High,Research Scientist,Excellent,4,2,2904
+466,Research & Development,Very High,Manufacturing Director,Excellent,5,4,6032
+467,Sales,Medium,Sales Representative,Excellent,0,0,2976
+468,Research & Development,Low,Research Director,Excellent,1,0,15992
+469,Sales,Very High,Sales Executive,Excellent,4,3,4649
+470,Human Resources,High,Human Resources,Excellent,3,2,2696
+471,Research & Development,High,Laboratory Technician,Excellent,8,0,2370
+473,Sales,Low,Manager,Outstanding,0,0,12504
+474,Research & Development,High,Research Scientist,Excellent,7,7,5974
+475,Sales,Very High,Sales Executive,Excellent,2,2,4736
+476,Sales,High,Sales Executive,Excellent,8,7,5296
+477,Research & Development,Low,Healthcare Representative,Outstanding,1,0,6781
+478,Sales,Low,Sales Representative,Excellent,3,2,2174
+479,Sales,Very High,Sales Executive,Excellent,1,0,6653
+481,Sales,Low,Sales Executive,Excellent,13,9,9699
+482,Research & Development,Very High,Healthcare Representative,Excellent,3,2,6755
+483,Research & Development,Very High,Laboratory Technician,Excellent,7,7,2213
+484,Sales,Low,Sales Representative,Outstanding,3,2,2610
+485,Sales,Very High,Sales Representative,Excellent,1,0,2851
+486,Research & Development,High,Laboratory Technician,Outstanding,5,4,3452
+487,Research & Development,High,Manufacturing Director,Excellent,1,0,5258
+488,Sales,Low,Sales Executive,Excellent,8,7,9355
+491,Research & Development,Very High,Healthcare Representative,Excellent,4,3,10496
+492,Sales,High,Sales Executive,Excellent,6,4,6380
+493,Research & Development,High,Research Scientist,Excellent,2,2,2657
+494,Sales,High,Sales Representative,Excellent,1,0,2716
+495,Research & Development,Very High,Research Scientist,Excellent,3,2,2201
+496,Research & Development,High,Healthcare Representative,Excellent,1,1,6540
+497,Research & Development,Very High,Laboratory Technician,Excellent,5,2,3816
+498,Sales,Medium,Sales Executive,Excellent,7,5,5253
+499,Research & Development,Medium,Healthcare Representative,Outstanding,5,2,10965
+500,Sales,High,Sales Executive,Excellent,7,7,4936
+501,Research & Development,Very High,Research Scientist,Excellent,2,2,2543
+502,Sales,Low,Sales Executive,Excellent,5,2,5304
+505,Research & Development,High,Manager,Excellent,5,4,16659
+507,Sales,Very High,Sales Executive,Excellent,5,2,4260
+508,Sales,High,Sales Representative,Excellent,1,0,2476
+510,Research & Development,High,Research Scientist,Outstanding,6,4,3102
+511,Research & Development,Low,Research Scientist,Excellent,2,1,2244
+513,Sales,Medium,Sales Executive,Excellent,10,9,7596
+514,Research & Development,High,Research Scientist,Outstanding,1,0,2285
+515,Research & Development,Very High,Laboratory Technician,Excellent,18,7,3034
+516,Sales,Very High,Sales Executive,Excellent,5,4,5715
+517,Research & Development,Medium,Laboratory Technician,Excellent,5,2,2576
+518,Research & Development,High,Manufacturing Director,Excellent,1,0,4197
+520,Research & Development,Low,Research Director,Excellent,25,10,14336
+521,Research & Development,Medium,Laboratory Technician,Outstanding,1,0,3448
+522,Research & Development,Low,Research Director,Excellent,4,2,19406
+523,Sales,High,Sales Executive,Excellent,3,2,6538
+524,Research & Development,Medium,Manufacturing Director,Excellent,13,10,4306
+525,Research & Development,Very High,Laboratory Technician,Outstanding,3,2,2258
+526,Research & Development,High,Healthcare Representative,Excellent,5,2,4522
+527,Sales,Medium,Sales Executive,Excellent,5,4,4487
+529,Research & Development,Medium,Research Scientist,Excellent,13,11,4449
+530,Research & Development,Very High,Laboratory Technician,Excellent,4,2,2218
+531,Research & Development,Medium,Manager,Excellent,21,8,19197
+532,Sales,High,Sales Executive,Excellent,7,7,13212
+533,Sales,Medium,Sales Executive,Excellent,5,4,6577
+534,Sales,Medium,Sales Executive,Excellent,10,7,8392
+536,Research & Development,High,Laboratory Technician,Excellent,10,0,4558
+538,Research & Development,Low,Laboratory Technician,Excellent,2,2,4031
+543,Research & Development,Very High,Manufacturing Director,Excellent,5,4,7969
+544,Research & Development,Low,Research Scientist,Outstanding,2,2,2654
+546,Research & Development,Very High,Manager,Excellent,5,2,16555
+547,Research & Development,Low,Research Scientist,Excellent,5,4,4556
+548,Research & Development,High,Manufacturing Director,Outstanding,5,4,6091
+549,Research & Development,Low,Manager,Excellent,29,8,19566
+550,Research & Development,High,Manufacturing Director,Excellent,10,7,4810
+551,Research & Development,Very High,Healthcare Representative,Excellent,6,5,4523
+554,Sales,Low,Sales Representative,Excellent,5,3,3202
+555,Sales,Very High,Sales Representative,Excellent,2,2,2351
+556,Research & Development,Very High,Laboratory Technician,Outstanding,1,0,1702
+558,Sales,High,Manager,Excellent,20,15,18041
+560,Research & Development,Low,Research Scientist,Outstanding,3,2,2886
+562,Research & Development,High,Laboratory Technician,Excellent,5,3,2097
+564,Research & Development,Medium,Research Director,Excellent,10,2,11935
+565,Research & Development,High,Research Scientist,Excellent,2,2,2546
+566,Human Resources,Low,Human Resources,Excellent,1,0,2564
+567,Sales,High,Sales Executive,Excellent,9,8,8412
+568,Sales,Low,Manager,Excellent,1,0,14118
+569,Research & Development,Medium,Manager,Excellent,27,10,17046
+571,Research & Development,High,Laboratory Technician,Excellent,11,7,2564
+573,Sales,High,Sales Executive,Excellent,18,13,10266
+574,Research & Development,Low,Manufacturing Director,Excellent,5,0,5070
+575,Research & Development,Low,Research Director,Excellent,3,2,17861
+577,Research & Development,Very High,Laboratory Technician,Excellent,5,4,4230
+578,Research & Development,High,Laboratory Technician,Excellent,1,0,3780
+579,Research & Development,Very High,Research Scientist,Excellent,7,3,2768
+580,Sales,High,Sales Executive,Excellent,3,2,9071
+581,Research & Development,High,Manufacturing Director,Outstanding,13,8,10648
+582,Research & Development,Medium,Manager,Excellent,7,6,13610
+584,Research & Development,Low,Laboratory Technician,Excellent,4,3,3408
+585,Sales,Very High,Sales Representative,Excellent,3,2,2983
+586,Research & Development,Very High,Healthcare Representative,Excellent,8,7,7632
+587,Research & Development,Low,Healthcare Representative,Excellent,1,0,9824
+590,Human Resources,Medium,Human Resources,Excellent,3,2,9950
+591,Research & Development,Medium,Laboratory Technician,Excellent,2,2,2093
+592,Sales,Medium,Sales Executive,Excellent,10,3,9980
+593,Research & Development,High,Laboratory Technician,Excellent,2,2,3894
+595,Sales,Medium,Sales Executive,Excellent,9,7,4051
+597,Sales,Low,Manager,Outstanding,10,9,16835
+599,Sales,Very High,Sales Executive,Excellent,14,3,6230
+600,Sales,Medium,Sales Executive,Excellent,11,9,4717
+601,Research & Development,Medium,Manufacturing Director,Excellent,20,6,13237
+602,Research & Development,High,Laboratory Technician,Excellent,8,3,3755
+604,Sales,Medium,Sales Executive,Excellent,6,5,6582
+605,Research & Development,Very High,Manufacturing Director,Outstanding,10,9,7406
+606,Sales,Very High,Sales Executive,Excellent,8,7,4805
+608,Human Resources,Medium,Human Resources,Excellent,7,7,2741
+611,Research & Development,Very High,Manufacturing Director,Excellent,3,2,4262
+612,Research & Development,Low,Research Director,Excellent,6,1,16184
+613,Sales,High,Manager,Outstanding,5,4,11557
+614,Sales,Medium,Sales Representative,Excellent,0,0,1878
+615,Sales,High,Sales Executive,Excellent,1,0,10932
+616,Research & Development,Low,Healthcare Representative,Excellent,8,7,6811
+618,Sales,Low,Sales Executive,Excellent,0,0,4306
+620,Sales,Low,Sales Executive,Excellent,5,4,4859
+621,Sales,Very High,Sales Executive,Excellent,10,7,5337
+622,Research & Development,High,Laboratory Technician,Excellent,1,0,2340
+623,Research & Development,Medium,Manufacturing Director,Excellent,6,5,7491
+624,Research & Development,Low,Healthcare Representative,Excellent,2,2,10527
+625,Sales,Medium,Manager,Excellent,18,16,16595
+626,Sales,Low,Sales Executive,Excellent,9,5,8834
+630,Research & Development,Very High,Research Scientist,Excellent,10,9,5577
+631,Sales,Very High,Sales Executive,Excellent,4,2,4707
+632,Sales,Very High,Sales Representative,Excellent,2,2,2400
+634,Research & Development,High,Healthcare Representative,Excellent,1,0,9824
+635,Research & Development,Medium,Manufacturing Director,Excellent,6,5,6447
+638,Research & Development,Very High,Research Director,Excellent,31,9,19502
+639,Research & Development,Medium,Research Scientist,Excellent,6,5,2725
+641,Sales,Low,Sales Executive,Outstanding,5,3,6272
+643,Research & Development,Very High,Laboratory Technician,Outstanding,1,0,2127
+644,Human Resources,Low,Manager,Excellent,32,5,18200
+645,Sales,Medium,Sales Representative,Excellent,7,4,2096
+647,Research & Development,Low,Laboratory Technician,Excellent,6,3,2886
+648,Sales,Medium,Sales Representative,Excellent,1,0,2033
+649,Research & Development,Medium,Research Scientist,Excellent,6,5,3622
+650,Sales,Medium,Sales Executive,Excellent,3,1,4233
+652,Research & Development,Low,Laboratory Technician,Excellent,3,2,3681
+653,Sales,Low,Sales Executive,Outstanding,7,7,5460
+655,Research & Development,Low,Research Scientist,Excellent,5,3,2187
+656,Sales,Very High,Sales Executive,Excellent,3,0,9602
+657,Research & Development,Very High,Research Scientist,Excellent,1,0,2836
+659,Research & Development,High,Healthcare Representative,Excellent,10,2,4089
+661,Research & Development,Medium,Research Director,Excellent,1,0,16627
+662,Research & Development,High,Research Scientist,Excellent,0,0,2619
+663,Research & Development,Very High,Laboratory Technician,Excellent,8,7,5679
+664,Research & Development,Very High,Manager,Excellent,3,2,15402
+665,Human Resources,Low,Human Resources,Excellent,2,2,5985
+666,Sales,High,Sales Representative,Excellent,8,2,2579
+667,Sales,High,Sales Representative,Excellent,4,3,3041
+669,Sales,High,Sales Representative,Excellent,3,2,3447
+671,Research & Development,Very High,Manager,Excellent,2,2,19513
+675,Research & Development,Low,Research Scientist,Outstanding,2,2,2773
+677,Sales,High,Sales Executive,Excellent,5,0,7104
+679,Research & Development,Low,Research Scientist,Excellent,6,4,6322
+680,Research & Development,High,Research Scientist,Outstanding,1,0,2083
+682,Sales,Very High,Sales Executive,Outstanding,14,7,8381
+683,Research & Development,Medium,Research Scientist,Excellent,10,9,2691
+684,Sales,Low,Sales Executive,Excellent,1,1,4286
+686,Research & Development,High,Laboratory Technician,Excellent,3,2,2659
+689,Research & Development,High,Manufacturing Director,Excellent,10,7,9434
+690,Sales,Medium,Sales Executive,Excellent,6,0,5561
+691,Research & Development,Medium,Research Scientist,Excellent,17,11,6646
+692,Research & Development,High,Healthcare Representative,Outstanding,13,11,7725
+698,Human Resources,High,Human Resources,Excellent,9,7,10725
+699,Research & Development,Medium,Manufacturing Director,Excellent,3,2,8847
+700,Research & Development,Low,Research Scientist,Excellent,4,2,2045
+701,Research & Development,Very High,Research Scientist,Excellent,1,0,1009
+702,Research & Development,Low,Research Scientist,Excellent,10,8,3348
+704,Research & Development,High,Laboratory Technician,Excellent,1,0,1281
+705,Research & Development,Low,Research Scientist,Excellent,3,2,2819
+707,Sales,Very High,Sales Executive,Outstanding,3,2,4851
+709,Sales,Very High,Sales Executive,Outstanding,7,7,4028
+710,Research & Development,Medium,Research Scientist,Excellent,10,7,2720
+712,Sales,Medium,Sales Executive,Excellent,2,2,8120
+714,Sales,Very High,Sales Executive,Outstanding,6,5,4647
+715,Research & Development,Very High,Research Scientist,Excellent,1,0,4680
+716,Research & Development,Very High,Laboratory Technician,Excellent,20,8,3221
+717,Research & Development,Very High,Healthcare Representative,Excellent,8,7,8621
+720,Sales,Low,Sales Executive,Excellent,2,2,4577
+721,Research & Development,Very High,Healthcare Representative,Excellent,20,7,4553
+722,Sales,Very High,Sales Executive,Excellent,10,7,5396
+723,Sales,Medium,Sales Executive,Excellent,4,3,6796
+724,Research & Development,Medium,Healthcare Representative,Excellent,9,7,7625
+725,Research & Development,High,Manufacturing Director,Excellent,9,7,7412
+727,Research & Development,High,Research Director,Excellent,7,7,11159
+728,Sales,Very High,Sales Executive,Excellent,7,7,4960
+729,Sales,Very High,Sales Executive,Outstanding,18,13,10475
+730,Research & Development,High,Research Director,Excellent,5,1,14814
+731,Human Resources,Medium,Manager,Excellent,21,6,19141
+732,Sales,Low,Sales Executive,Excellent,2,2,5405
+733,Research & Development,Very High,Manufacturing Director,Outstanding,9,7,8793
+734,Human Resources,Very High,Manager,Excellent,22,7,19189
+738,Sales,Very High,Sales Representative,Excellent,2,2,3875
+741,Research & Development,Low,Research Scientist,Excellent,7,7,2216
+742,Research & Development,Low,Research Director,Excellent,8,7,11713
+743,Research & Development,High,Manufacturing Director,Excellent,1,0,7861
+744,Research & Development,Low,Laboratory Technician,Excellent,5,2,3708
+746,Sales,Very High,Sales Executive,Excellent,22,2,13770
+747,Sales,High,Sales Executive,Outstanding,8,7,5304
+749,Sales,High,Sales Representative,Excellent,1,0,2642
+752,Research & Development,High,Research Scientist,Excellent,2,2,2759
+754,Sales,Very High,Sales Executive,Excellent,2,2,6804
+757,Research & Development,Medium,Healthcare Representative,Excellent,5,1,6142
+758,Research & Development,Medium,Laboratory Technician,Excellent,4,3,2500
+760,Human Resources,High,Human Resources,Excellent,8,3,6389
+762,Research & Development,High,Healthcare Representative,Excellent,10,7,11103
+763,Research & Development,Very High,Research Scientist,Outstanding,4,2,2342
+764,Research & Development,Very High,Healthcare Representative,Excellent,7,6,6811
+766,Sales,Very High,Sales Representative,Excellent,2,2,2297
+769,Research & Development,Very High,Laboratory Technician,Excellent,2,2,2450
+771,Research & Development,Very High,Healthcare Representative,Excellent,1,0,5093
+772,Research & Development,Low,Laboratory Technician,Excellent,10,8,5309
+773,Research & Development,Very High,Research Scientist,Excellent,1,0,3057
+775,Research & Development,Medium,Manufacturing Director,Excellent,0,0,5121
+776,Sales,High,Manager,Excellent,34,6,16856
+780,Research & Development,Very High,Research Scientist,Excellent,10,9,2686
+781,Sales,High,Sales Executive,Outstanding,6,5,6180
+783,Sales,Medium,Sales Representative,Excellent,8,7,6632
+784,Research & Development,Low,Research Scientist,Excellent,2,2,3505
+785,Sales,Medium,Sales Executive,Excellent,5,4,6397
+786,Sales,Very High,Sales Executive,Outstanding,6,5,6274
+787,Research & Development,Very High,Manager,Excellent,5,2,19859
+789,Sales,Low,Sales Executive,Excellent,10,7,7587
+791,Research & Development,Very High,Research Scientist,Excellent,4,3,4258
+792,Research & Development,Low,Laboratory Technician,Excellent,2,2,4364
+793,Research & Development,Medium,Healthcare Representative,Excellent,8,7,4335
+796,Sales,Very High,Sales Executive,Excellent,4,3,5326
+797,Research & Development,Medium,Research Scientist,Excellent,4,2,3280
+799,Research & Development,Very High,Manufacturing Director,Excellent,5,3,5485
+800,Sales,High,Sales Executive,Excellent,4,2,4342
+802,Research & Development,Very High,Research Scientist,Excellent,5,3,2782
+803,Research & Development,Low,Manufacturing Director,Excellent,15,7,5980
+804,Research & Development,High,Research Scientist,Excellent,6,5,4381
+805,Sales,Low,Sales Representative,Excellent,3,2,2572
+806,Research & Development,Very High,Laboratory Technician,Outstanding,2,2,3833
+807,Research & Development,High,Healthcare Representative,Outstanding,8,7,4244
+808,Sales,High,Sales Executive,Excellent,3,2,6500
+809,Research & Development,Medium,Manager,Excellent,24,7,18430
+811,Research & Development,High,Laboratory Technician,Outstanding,0,0,1601
+812,Research & Development,High,Laboratory Technician,Excellent,1,0,2694
+813,Research & Development,Very High,Laboratory Technician,Outstanding,5,2,3149
+815,Research & Development,High,Research Director,Excellent,4,3,17639
+816,Research & Development,Medium,Laboratory Technician,Excellent,1,0,2319
+817,Research & Development,High,Research Director,Excellent,13,9,11691
+819,Sales,Low,Sales Executive,Excellent,3,2,5324
+820,Research & Development,High,Manager,Excellent,26,14,16752
+823,Research & Development,High,Manufacturing Director,Excellent,9,7,5228
+824,Research & Development,High,Research Scientist,Outstanding,10,7,2700
+825,Research & Development,Very High,Research Director,Excellent,31,15,19246
+826,Research & Development,Very High,Research Scientist,Excellent,2,2,2506
+827,Research & Development,Very High,Manufacturing Director,Excellent,4,3,6062
+828,Research & Development,High,Research Scientist,Excellent,2,2,4382
+829,Human Resources,High,Human Resources,Excellent,5,2,2143
+830,Research & Development,High,Manufacturing Director,Excellent,14,13,6162
+832,Research & Development,Low,Laboratory Technician,Excellent,1,0,5094
+833,Research & Development,High,Manufacturing Director,Outstanding,0,0,6877
+834,Research & Development,Medium,Research Scientist,Excellent,1,0,2274
+836,Research & Development,Medium,Manufacturing Director,Excellent,9,8,4434
+837,Research & Development,Low,Healthcare Representative,Excellent,4,3,6288
+838,Research & Development,High,Research Scientist,Excellent,5,2,2553
+840,Sales,High,Sales Executive,Excellent,9,8,7654
+842,Sales,High,Sales Executive,Excellent,9,7,5160
+843,Research & Development,Medium,Research Director,Outstanding,4,1,17159
+844,Research & Development,High,Research Director,Excellent,9,8,12808
+845,Research & Development,High,Manufacturing Director,Outstanding,8,5,10221
+846,Sales,Medium,Sales Executive,Outstanding,8,7,4779
+847,Human Resources,High,Human Resources,Excellent,3,2,3737
+848,Research & Development,High,Research Scientist,Excellent,8,7,2366
+850,Research & Development,Very High,Research Scientist,Excellent,0,0,1706
+851,Sales,Low,Manager,Excellent,20,6,16307
+852,Research & Development,Very High,Healthcare Representative,Excellent,5,2,5933
+854,Research & Development,Low,Research Scientist,Excellent,4,3,3424
+855,Sales,Low,Sales Executive,Outstanding,9,8,4037
+856,Research & Development,High,Research Scientist,Excellent,6,5,2559
+857,Sales,Medium,Sales Executive,Excellent,18,14,6201
+859,Sales,Medium,Sales Executive,Excellent,5,2,4403
+861,Research & Development,Medium,Research Scientist,Excellent,5,4,3761
+862,Sales,Low,Sales Executive,Excellent,5,2,10934
+864,Sales,Very High,Sales Executive,Excellent,5,4,10761
+865,Research & Development,High,Research Scientist,Excellent,5,3,5175
+867,Research & Development,High,Manufacturing Director,Outstanding,9,8,13826
+868,Sales,Very High,Sales Executive,Excellent,1,0,6334
+869,Human Resources,Medium,Human Resources,Excellent,5,1,4936
+872,Research & Development,Very High,Manufacturing Director,Outstanding,2,2,4775
+874,Research & Development,Low,Laboratory Technician,Outstanding,3,2,2818
+875,Research & Development,Medium,Research Scientist,Excellent,2,1,2515
+878,Human Resources,Low,Human Resources,Outstanding,5,4,2342
+879,Sales,High,Sales Executive,Excellent,5,3,4194
+880,Research & Development,Very High,Manufacturing Director,Outstanding,17,14,10685
+881,Research & Development,Very High,Research Scientist,Excellent,10,2,2022
+882,Research & Development,Very High,Laboratory Technician,Excellent,3,0,2314
+885,Sales,High,Sales Executive,Excellent,5,2,4256
+887,Research & Development,High,Research Scientist,Excellent,4,2,3580
+888,Research & Development,Low,Laboratory Technician,Excellent,5,2,3162
+889,Sales,Medium,Sales Executive,Excellent,10,8,6524
+893,Sales,Medium,Sales Representative,Excellent,2,2,2899
+894,Research & Development,High,Laboratory Technician,Excellent,5,3,5231
+895,Research & Development,Very High,Research Scientist,Excellent,6,4,2356
+896,Sales,Medium,Sales Representative,Excellent,3,2,2800
+897,Sales,Low,Sales Executive,Excellent,2,0,11836
+899,Research & Development,Very High,Manufacturing Director,Excellent,13,10,10903
+900,Sales,High,Sales Representative,Excellent,5,4,2973
+901,Research & Development,Very High,Research Director,Excellent,12,9,14275
+902,Research & Development,Very High,Healthcare Representative,Excellent,5,2,5562
+903,Sales,High,Sales Executive,Outstanding,7,6,4537
+904,Sales,Low,Sales Executive,Excellent,10,0,7642
+905,Research & Development,Low,Manager,Excellent,31,6,17924
+909,Human Resources,Very High,Human Resources,Excellent,5,4,5204
+910,Human Resources,Very High,Human Resources,Excellent,4,3,2277
+911,Research & Development,Low,Laboratory Technician,Outstanding,1,0,2795
+912,Research & Development,Low,Laboratory Technician,Excellent,4,3,2532
+913,Research & Development,Medium,Research Scientist,Excellent,8,7,2559
+916,Sales,Low,Sales Executive,Excellent,4,2,4908
+918,Research & Development,Very High,Laboratory Technician,Excellent,1,0,2380
+920,Research & Development,Low,Manufacturing Director,Outstanding,1,0,4765
+922,Sales,High,Sales Representative,Excellent,2,2,2044
+923,Research & Development,Very High,Research Scientist,Excellent,1,0,2693
+924,Research & Development,High,Healthcare Representative,Excellent,16,8,6586
+925,Sales,Very High,Sales Representative,Excellent,3,2,3294
+926,Research & Development,Medium,Manufacturing Director,Excellent,3,2,4171
+927,Research & Development,Medium,Laboratory Technician,Excellent,7,7,2778
+930,Research & Development,High,Research Scientist,Excellent,2,2,2377
+932,Research & Development,Very High,Laboratory Technician,Outstanding,2,2,2404
+933,Research & Development,Medium,Research Scientist,Excellent,1,1,2318
+934,Research & Development,Medium,Laboratory Technician,Excellent,1,0,2008
+936,Sales,High,Sales Executive,Excellent,5,4,6244
+939,Research & Development,High,Research Scientist,Excellent,3,2,2799
+940,Research & Development,High,Healthcare Representative,Excellent,6,0,10552
+941,Sales,Medium,Sales Representative,Excellent,7,7,2329
+942,Research & Development,Very High,Healthcare Representative,Outstanding,10,6,4014
+944,Research & Development,Low,Laboratory Technician,Excellent,26,9,7403
+945,Research & Development,Very High,Research Scientist,Excellent,0,0,2259
+947,Sales,Very High,Sales Executive,Excellent,9,8,6932
+949,Research & Development,Medium,Research Scientist,Excellent,6,2,4678
+950,Research & Development,Very High,Research Director,Excellent,15,12,13582
+951,Research & Development,High,Laboratory Technician,Outstanding,3,0,2332
+952,Sales,High,Sales Representative,Excellent,1,0,2413
+954,Sales,Low,Sales Executive,Excellent,1,0,9705
+956,Sales,High,Sales Executive,Excellent,7,7,4294
+957,Research & Development,Very High,Laboratory Technician,Excellent,18,13,4721
+958,Research & Development,High,Laboratory Technician,Outstanding,11,8,2519
+959,Sales,Very High,Sales Representative,Excellent,1,0,2121
+960,Research & Development,Low,Laboratory Technician,Excellent,1,0,2973
+961,Research & Development,Very High,Healthcare Representative,Excellent,9,7,5855
+964,Research & Development,Very High,Research Scientist,Excellent,1,1,3617
+966,Research & Development,High,Manufacturing Director,Excellent,8,7,6725
+967,Sales,High,Sales Executive,Excellent,16,7,10325
+969,Research & Development,Medium,Healthcare Representative,Excellent,5,0,6949
+970,Sales,Low,Sales Executive,Excellent,14,1,10609
+972,Research & Development,High,Laboratory Technician,Excellent,9,7,4447
+974,Sales,High,Sales Representative,Excellent,3,1,2157
+975,Sales,High,Sales Executive,Excellent,5,2,4601
+976,Research & Development,Very High,Manager,Excellent,9,8,17099
+977,Research & Development,Very High,Research Scientist,Outstanding,1,0,2479
+981,Sales,High,Manager,Excellent,17,13,14852
+982,Sales,High,Sales Executive,Excellent,8,4,7264
+983,Sales,High,Sales Executive,Excellent,5,3,5666
+984,Sales,Very High,Sales Executive,Excellent,10,9,7823
+985,Sales,Low,Sales Executive,Excellent,8,7,7880
+986,Sales,Medium,Sales Executive,Excellent,1,0,13194
+987,Research & Development,High,Manufacturing Director,Excellent,19,10,5067
+990,Sales,Low,Sales Executive,Excellent,7,7,5079
+991,Research & Development,High,Research Scientist,Outstanding,3,2,2321
+992,Sales,Very High,Manager,Excellent,10,8,17444
+994,Research & Development,Very High,Research Scientist,Outstanding,0,0,2404
+995,Research & Development,Medium,Research Scientist,Excellent,3,2,3452
+996,Research & Development,Very High,Laboratory Technician,Excellent,5,3,2270
+997,Research & Development,Very High,Research Director,Outstanding,5,4,17399
+998,Research & Development,High,Healthcare Representative,Excellent,6,5,5488
+999,Research & Development,Low,Research Director,Excellent,18,16,19419
+1001,Research & Development,High,Laboratory Technician,Excellent,2,2,2811
+1002,Research & Development,Very High,Laboratory Technician,Excellent,9,8,3633
+1003,Sales,Very High,Sales Executive,Excellent,9,0,4163
+1004,Research & Development,Low,Research Scientist,Excellent,5,2,2132
+1005,Research & Development,Very High,Manufacturing Director,Excellent,12,11,13973
+1006,Research & Development,High,Research Scientist,Excellent,2,1,2684
+1007,Research & Development,Very High,Manufacturing Director,Excellent,8,7,10845
+1009,Research & Development,Very High,Manufacturing Director,Excellent,4,2,4377
+1010,Research & Development,High,Laboratory Technician,Outstanding,4,2,3743
+1011,Research & Development,High,Manufacturing Director,Excellent,4,3,4148
+1012,Research & Development,Medium,Research Scientist,Excellent,0,0,1051
+1013,Research & Development,High,Manufacturing Director,Excellent,10,7,10739
+1014,Research & Development,High,Healthcare Representative,Excellent,16,10,10388
+1015,Research & Development,Medium,Research Director,Excellent,8,7,11416
+1016,Research & Development,Very High,Research Scientist,Excellent,1,0,2600
+1017,Research & Development,Medium,Laboratory Technician,Excellent,3,2,2422
+1018,Research & Development,Very High,Manufacturing Director,Excellent,8,7,5472
+1019,Research & Development,Medium,Laboratory Technician,Excellent,4,3,2451
+1022,Research & Development,Low,Healthcare Representative,Excellent,2,2,4240
+1024,Research & Development,High,Healthcare Representative,Excellent,15,11,10999
+1025,Research & Development,Very High,Manufacturing Director,Excellent,2,2,5003
+1026,Research & Development,Very High,Manufacturing Director,Excellent,21,6,12742
+1027,Research & Development,Low,Manufacturing Director,Excellent,3,2,4227
+1028,Research & Development,Medium,Laboratory Technician,Outstanding,3,2,3917
+1029,Sales,Very High,Manager,Excellent,1,0,18303
+1030,Research & Development,Low,Laboratory Technician,Excellent,1,0,2380
+1032,Research & Development,High,Manufacturing Director,Excellent,5,3,13726
+1033,Research & Development,Low,Healthcare Representative,Excellent,1,0,4777
+1034,Research & Development,High,Healthcare Representative,Excellent,8,7,6385
+1035,Research & Development,Medium,Research Director,Outstanding,21,16,19973
+1036,Sales,Medium,Sales Executive,Excellent,1,0,6861
+1037,Sales,Medium,Sales Executive,Excellent,2,2,4969
+1038,Sales,Low,Manager,Excellent,32,14,19845
+1039,Sales,Very High,Sales Executive,Excellent,12,11,13320
+1040,Sales,Very High,Sales Executive,Excellent,18,7,6347
+1042,Research & Development,High,Laboratory Technician,Excellent,17,13,2743
+1043,Research & Development,Very High,Manufacturing Director,Excellent,21,6,10880
+1044,Sales,Medium,Sales Representative,Excellent,2,2,2342
+1045,Sales,Very High,Manager,Excellent,9,3,17650
+1046,Research & Development,Very High,Laboratory Technician,Excellent,8,7,4025
+1047,Sales,Medium,Sales Executive,Excellent,15,1,9725
+1048,Sales,Medium,Manager,Excellent,6,4,11904
+1049,Human Resources,Medium,Human Resources,Excellent,6,3,2177
+1050,Sales,High,Sales Executive,Excellent,15,7,7525
+1052,Research & Development,Low,Laboratory Technician,Excellent,1,0,4834
+1053,Research & Development,Low,Research Scientist,Excellent,3,2,2042
+1055,Sales,High,Sales Representative,Excellent,1,1,2220
+1056,Sales,Very High,Sales Representative,Outstanding,1,0,1052
+1060,Research & Development,High,Research Scientist,Excellent,2,2,2821
+1061,Research & Development,Medium,Research Director,Excellent,8,1,19237
+1062,Research & Development,Very High,Healthcare Representative,Excellent,4,3,4107
+1066,Sales,High,Sales Executive,Excellent,7,7,8396
+1068,Research & Development,Low,Research Scientist,Excellent,5,3,2007
+1069,Research & Development,Very High,Research Director,Excellent,2,2,19627
+1070,Sales,High,Sales Executive,Excellent,9,4,10686
+1071,Research & Development,Low,Research Scientist,Excellent,5,4,2942
+1073,Research & Development,Very High,Manufacturing Director,Excellent,14,8,8858
+1074,Research & Development,High,Manager,Excellent,9,7,16756
+1076,Sales,High,Sales Executive,Excellent,1,0,10798
+1077,Sales,Very High,Sales Representative,Excellent,2,2,2323
+1079,Research & Development,High,Laboratory Technician,Excellent,1,0,1416
+1080,Research & Development,Very High,Research Scientist,Outstanding,16,13,4615
+1081,Research & Development,Low,Research Scientist,Excellent,10,0,2461
+1082,Research & Development,Medium,Healthcare Representative,Excellent,10,7,8722
+1083,Research & Development,Low,Laboratory Technician,Excellent,5,3,3955
+1084,Research & Development,High,Manufacturing Director,Excellent,6,2,9957
+1085,Research & Development,Medium,Research Scientist,Excellent,10,6,3376
+1088,Research & Development,High,Healthcare Representative,Excellent,19,9,8823
+1092,Research & Development,Low,Healthcare Representative,Outstanding,11,10,10322
+1094,Research & Development,Low,Laboratory Technician,Excellent,3,2,4621
+1096,Research & Development,Very High,Manufacturing Director,Excellent,3,2,10976
+1097,Research & Development,High,Research Scientist,Excellent,8,7,3660
+1098,Human Resources,Medium,Human Resources,Excellent,20,6,10482
+1099,Research & Development,Very High,Healthcare Representative,Excellent,3,2,7119
+1100,Sales,Very High,Sales Executive,Outstanding,8,7,9582
+1101,Research & Development,Low,Research Scientist,Outstanding,13,7,4508
+1102,Research & Development,Low,Laboratory Technician,Excellent,4,2,2207
+1103,Research & Development,Low,Healthcare Representative,Excellent,6,2,7756
+1105,Sales,Very High,Sales Executive,Excellent,1,0,6694
+1106,Research & Development,Very High,Laboratory Technician,Excellent,7,7,3691
+1107,Research & Development,Low,Laboratory Technician,Outstanding,1,1,2377
+1108,Research & Development,Low,Research Scientist,Outstanding,2,2,2313
+1109,Research & Development,Very High,Manager,Excellent,22,6,17665
+1111,Research & Development,Low,Laboratory Technician,Excellent,1,0,2596
+1113,Sales,Very High,Sales Executive,Excellent,0,0,4728
+1114,Sales,Very High,Sales Executive,Excellent,3,2,4302
+1115,Research & Development,High,Research Scientist,Excellent,0,0,2979
+1116,Research & Development,Low,Manager,Outstanding,5,4,16885
+1117,Sales,Medium,Sales Executive,Excellent,15,10,5593
+1118,Research & Development,Medium,Healthcare Representative,Excellent,8,6,10445
+1119,Sales,High,Sales Executive,Excellent,8,7,8740
+1120,Research & Development,High,Research Scientist,Outstanding,7,5,2514
+1121,Research & Development,Very High,Manufacturing Director,Excellent,9,7,7655
+1124,Sales,Low,Manager,Excellent,12,9,17465
+1125,Sales,Very High,Sales Executive,Excellent,1,0,7351
+1126,Research & Development,High,Manufacturing Director,Excellent,8,7,10820
+1127,Research & Development,Low,Healthcare Representative,Excellent,18,7,12169
+1128,Research & Development,High,Research Director,Excellent,20,7,19626
+1131,Research & Development,Very High,Research Scientist,Excellent,2,2,2070
+1132,Research & Development,High,Laboratory Technician,Excellent,5,4,6782
+1133,Research & Development,Low,Manufacturing Director,Outstanding,11,9,7779
+1135,Sales,High,Sales Representative,Excellent,2,2,2791
+1136,Research & Development,Low,Research Scientist,Excellent,5,3,3201
+1137,Sales,Very High,Sales Executive,Excellent,5,2,4968
+1138,Sales,Very High,Sales Executive,Excellent,9,8,13120
+1140,Research & Development,Very High,Manufacturing Director,Excellent,3,2,4033
+1143,Research & Development,Very High,Research Scientist,Excellent,7,5,3291
+1148,Research & Development,Medium,Laboratory Technician,Excellent,1,0,4272
+1150,Research & Development,Medium,Manufacturing Director,Excellent,10,7,5056
+1152,Human Resources,High,Human Resources,Excellent,7,6,2844
+1154,Research & Development,High,Research Scientist,Excellent,3,1,2703
+1156,Research & Development,High,Laboratory Technician,Excellent,0,0,1904
+1157,Sales,Low,Sales Executive,Excellent,5,2,8224
+1158,Research & Development,Medium,Laboratory Technician,Excellent,1,0,4766
+1160,Research & Development,High,Laboratory Technician,Excellent,2,2,2610
+1161,Research & Development,High,Healthcare Representative,Excellent,6,2,5731
+1162,Research & Development,Very High,Research Scientist,Excellent,4,2,2539
+1163,Sales,Medium,Sales Executive,Outstanding,6,5,5714
+1164,Human Resources,High,Human Resources,Excellent,5,4,4323
+1165,Sales,Very High,Sales Executive,Excellent,11,8,7336
+1166,Research & Development,Medium,Research Director,Excellent,18,7,13499
+1167,Sales,High,Sales Executive,Excellent,21,9,13758
+1171,Sales,Medium,Sales Executive,Excellent,6,4,5155
+1172,Research & Development,Very High,Laboratory Technician,Excellent,8,0,2258
+1173,Research & Development,Very High,Laboratory Technician,Outstanding,4,3,3597
+1175,Research & Development,High,Laboratory Technician,Excellent,1,1,2515
+1177,Research & Development,Low,Laboratory Technician,Outstanding,8,7,4420
+1179,Sales,High,Sales Executive,Excellent,10,3,6578
+1180,Research & Development,High,Research Scientist,Excellent,1,1,4422
+1182,Research & Development,High,Manufacturing Director,Excellent,7,7,10274
+1184,Research & Development,Very High,Healthcare Representative,Outstanding,13,9,5343
+1185,Research & Development,Very High,Laboratory Technician,Excellent,2,2,2376
+1188,Sales,Low,Sales Executive,Excellent,4,3,5346
+1190,Sales,High,Sales Representative,Excellent,1,0,2827
+1191,Research & Development,Very High,Manager,Excellent,5,2,19943
+1192,Research & Development,Medium,Laboratory Technician,Excellent,10,8,3131
+1193,Research & Development,High,Research Scientist,Outstanding,1,1,2552
+1195,Research & Development,Low,Research Scientist,Excellent,3,2,4477
+1196,Research & Development,Very High,Manufacturing Director,Excellent,14,8,6474
+1198,Research & Development,Low,Laboratory Technician,Excellent,2,2,3033
+1200,Research & Development,High,Research Scientist,Excellent,6,4,2936
+1201,Research & Development,Very High,Manager,Excellent,7,7,18606
+1202,Research & Development,Medium,Research Scientist,Excellent,5,4,2168
+1203,Research & Development,High,Research Scientist,Excellent,0,0,2853
+1204,Sales,High,Manager,Outstanding,26,15,17048
+1206,Research & Development,Very High,Research Scientist,Excellent,0,0,2290
+1207,Human Resources,Medium,Human Resources,Excellent,5,4,3600
+1210,Research & Development,Low,Research Scientist,Excellent,1,0,2107
+1211,Sales,High,Sales Executive,Excellent,4,3,4115
+1212,Sales,Medium,Sales Executive,Excellent,0,0,4327
+1215,Research & Development,Very High,Manager,Outstanding,2,2,17856
+1216,Research & Development,Very High,Laboratory Technician,Excellent,6,5,3196
+1217,Research & Development,Very High,Research Director,Excellent,4,2,19081
+1218,Sales,High,Sales Executive,Excellent,7,7,8966
+1219,Research & Development,Very High,Laboratory Technician,Excellent,1,0,2210
+1220,Sales,Medium,Sales Executive,Excellent,10,7,4539
+1221,Research & Development,High,Laboratory Technician,Excellent,7,7,2741
+1224,Research & Development,High,Laboratory Technician,Excellent,10,7,3491
+1225,Research & Development,Very High,Research Scientist,Outstanding,20,11,4541
+1226,Sales,High,Sales Representative,Excellent,2,1,2678
+1228,Research & Development,Very High,Manufacturing Director,Excellent,6,3,7379
+1231,Human Resources,Very High,Human Resources,Excellent,4,3,6272
+1233,Sales,Medium,Sales Executive,Excellent,11,7,5220
+1234,Research & Development,High,Laboratory Technician,Outstanding,2,2,2743
+1235,Research & Development,Very High,Research Scientist,Excellent,8,7,4998
+1237,Research & Development,High,Manufacturing Director,Outstanding,7,7,10252
+1238,Research & Development,Low,Research Scientist,Excellent,14,10,2781
+1239,Sales,Medium,Sales Executive,Excellent,5,1,6852
+1240,Sales,High,Sales Executive,Excellent,4,3,4950
+1241,Research & Development,Very High,Research Scientist,Outstanding,11,9,3579
+1242,Research & Development,Low,Research Director,Excellent,1,0,13191
+1243,Sales,High,Sales Executive,Excellent,13,2,10377
+1244,Research & Development,Low,Research Scientist,Excellent,9,7,2235
+1245,Research & Development,Very High,Manufacturing Director,Excellent,5,4,10502
+1246,Research & Development,Low,Research Scientist,Excellent,10,5,2011
+1248,Research & Development,Low,Research Scientist,Outstanding,1,1,1859
+1249,Research & Development,Low,Research Scientist,Excellent,3,2,3760
+1250,Research & Development,Very High,Research Director,Excellent,10,9,17779
+1251,Research & Development,High,Healthcare Representative,Excellent,6,5,6833
+1252,Research & Development,High,Healthcare Representative,Excellent,10,9,6812
+1254,Sales,High,Sales Executive,Excellent,6,1,5171
+1255,Research & Development,High,Research Director,Excellent,8,7,19740
+1256,Research & Development,Low,Manager,Excellent,1,0,18711
+1257,Research & Development,High,Research Scientist,Excellent,11,10,3692
+1258,Research & Development,Very High,Laboratory Technician,Excellent,1,0,2559
+1259,Research & Development,Low,Research Scientist,Excellent,5,3,2517
+1260,Research & Development,High,Healthcare Representative,Excellent,6,0,6623
+1263,Research & Development,Very High,Research Director,Excellent,1,0,18265
+1264,Research & Development,Very High,Research Director,Excellent,7,7,16124
+1265,Research & Development,High,Research Scientist,Excellent,1,0,2585
+1267,Sales,Medium,Manager,Excellent,22,9,18213
+1268,Sales,Very High,Sales Executive,Excellent,9,8,8380
+1269,Research & Development,Medium,Research Scientist,Excellent,1,0,2994
+1270,Research & Development,Very High,Research Scientist,Outstanding,1,0,1223
+1273,Sales,High,Sales Representative,Excellent,1,0,1118
+1275,Research & Development,High,Research Scientist,Outstanding,8,5,2875
+1277,Sales,Low,Manager,Excellent,24,10,18824
+1278,Research & Development,Very High,Healthcare Representative,Excellent,33,9,13577
+1279,Research & Development,Low,Laboratory Technician,Outstanding,2,2,2625
+1280,Sales,Very High,Manager,Excellent,11,4,18789
+1281,Sales,High,Sales Executive,Excellent,3,2,4538
+1282,Sales,Very High,Manager,Outstanding,29,10,19847
+1283,Research & Development,Very High,Manufacturing Director,Excellent,9,7,10512
+1285,Research & Development,High,Laboratory Technician,Excellent,11,8,4444
+1286,Research & Development,Very High,Laboratory Technician,Excellent,4,2,2154
+1288,Research & Development,High,Manager,Excellent,25,9,19190
+1289,Human Resources,High,Human Resources,Excellent,10,9,4490
+1291,Research & Development,High,Research Scientist,Excellent,3,2,3506
+1292,Research & Development,Medium,Research Scientist,Excellent,1,0,2372
+1293,Sales,Very High,Sales Executive,Excellent,21,7,10231
+1294,Research & Development,High,Manufacturing Director,Excellent,16,14,5410
+1295,Research & Development,Low,Healthcare Representative,Excellent,10,7,7978
+1296,Research & Development,Very High,Laboratory Technician,Excellent,2,2,3867
+1297,Research & Development,Medium,Laboratory Technician,Excellent,7,0,2838
+1298,Research & Development,High,Manufacturing Director,Excellent,8,4,4695
+1299,Research & Development,Medium,Laboratory Technician,Excellent,7,7,3339
+1301,Research & Development,Very High,Research Scientist,Excellent,3,2,2080
+1303,Research & Development,Very High,Research Scientist,Excellent,2,2,2096
+1304,Sales,High,Sales Executive,Excellent,10,7,6209
+1306,Research & Development,Medium,Manager,Outstanding,0,0,18061
+1307,Research & Development,High,Manager,Excellent,19,9,17123
+1308,Research & Development,Low,Research Scientist,Excellent,2,2,2372
+1309,Research & Development,Very High,Laboratory Technician,Excellent,10,4,4883
+1310,Research & Development,High,Research Scientist,Excellent,5,2,3904
+1311,Research & Development,Low,Laboratory Technician,Excellent,9,2,4627
+1312,Research & Development,Very High,Healthcare Representative,Excellent,7,7,7094
+1314,Human Resources,Very High,Human Resources,Excellent,7,6,3423
+1315,Research & Development,High,Laboratory Technician,Excellent,9,8,6674
+1317,Research & Development,Very High,Research Director,Excellent,3,2,16880
+1318,Sales,Very High,Sales Executive,Excellent,5,4,9094
+1319,Sales,Medium,Sales Executive,Excellent,8,7,8446
+1321,Research & Development,Medium,Manager,Outstanding,9,1,11916
+1322,Research & Development,Low,Manufacturing Director,Excellent,8,7,4534
+1324,Sales,Very High,Sales Executive,Excellent,10,8,9852
+1329,Sales,High,Sales Executive,Excellent,19,2,6151
+1331,Sales,Very High,Sales Representative,Excellent,3,2,2302
+1333,Research & Development,Low,Laboratory Technician,Excellent,3,2,2362
+1334,Research & Development,High,Manager,Excellent,20,8,17861
+1336,Research & Development,Very High,Manager,Excellent,19,9,19187
+1338,Human Resources,Very High,Manager,Excellent,7,3,19717
+1340,Research & Development,High,Research Scientist,Excellent,4,2,3544
+1344,Research & Development,Very High,Healthcare Representative,Excellent,9,7,8500
+1346,Research & Development,High,Research Scientist,Excellent,9,8,4661
+1349,Sales,High,Sales Executive,Excellent,9,3,4103
+1350,Research & Development,High,Research Scientist,Excellent,9,6,4249
+1352,Human Resources,High,Manager,Excellent,33,9,14026
+1355,Sales,Medium,Sales Executive,Excellent,7,7,6893
+1356,Sales,High,Sales Executive,Excellent,10,8,6125
+1358,Research & Development,Very High,Laboratory Technician,Excellent,3,2,3669
+1360,Research & Development,High,Manufacturing Director,Excellent,10,9,10008
+1361,Research & Development,Medium,Laboratory Technician,Outstanding,4,2,2387
+1362,Sales,Low,Sales Executive,Excellent,15,7,4639
+1363,Research & Development,Very High,Manufacturing Director,Excellent,10,9,7898
+1364,Sales,High,Sales Representative,Excellent,1,0,2534
+1367,Research & Development,Very High,Manufacturing Director,Excellent,5,2,13142
+1368,Research & Development,Very High,Laboratory Technician,Excellent,0,0,1611
+1369,Research & Development,Very High,Laboratory Technician,Excellent,9,7,5363
+1371,Sales,Very High,Sales Executive,Outstanding,6,2,5071
+1372,Sales,Low,Sales Executive,Excellent,19,7,13695
+1373,Research & Development,Very High,Manufacturing Director,Excellent,19,16,13402
+1374,Research & Development,Low,Research Scientist,Outstanding,5,4,2029
+1375,Research & Development,Medium,Healthcare Representative,Outstanding,12,11,6377
+1377,Research & Development,Medium,Laboratory Technician,Excellent,8,7,5429
+1379,Sales,High,Sales Representative,Excellent,1,0,2785
+1380,Sales,Very High,Sales Executive,Excellent,4,2,4614
+1382,Research & Development,Very High,Research Scientist,Excellent,4,2,2610
+1383,Research & Development,High,Healthcare Representative,Excellent,14,11,6687
+1387,Sales,High,Sales Executive,Excellent,5,3,4724
+1389,Research & Development,Very High,Manufacturing Director,Excellent,10,2,6179
+1390,Sales,Low,Sales Executive,Excellent,5,4,6120
+1391,Sales,Medium,Sales Executive,Excellent,4,2,10596
+1392,Research & Development,Very High,Research Scientist,Excellent,6,2,5467
+1394,Research & Development,High,Research Scientist,Excellent,6,4,2996
+1395,Sales,Medium,Sales Executive,Excellent,5,4,9998
+1396,Sales,High,Sales Executive,Excellent,3,2,4078
+1397,Research & Development,High,Healthcare Representative,Outstanding,6,4,10920
+1399,Sales,Low,Sales Executive,Excellent,3,2,6232
+1401,Research & Development,Very High,Manufacturing Director,Excellent,5,3,13247
+1402,Research & Development,Low,Research Scientist,Excellent,20,7,4081
+1403,Sales,Very High,Sales Executive,Excellent,6,2,5769
+1405,Research & Development,Very High,Research Scientist,Excellent,8,2,2394
+1407,Research & Development,Low,Research Scientist,Excellent,4,3,3904
+1408,Human Resources,High,Manager,Excellent,20,7,16799
+1409,Research & Development,High,Laboratory Technician,Excellent,5,4,2950
+1411,Research & Development,Low,Laboratory Technician,Excellent,3,2,3629
+1412,Research & Development,High,Manufacturing Director,Excellent,2,2,9362
+1415,Research & Development,Low,Laboratory Technician,Excellent,3,2,3229
+1417,Research & Development,High,Laboratory Technician,Excellent,7,7,3578
+1419,Human Resources,Medium,Human Resources,Excellent,10,9,7988
+1420,Research & Development,Low,Laboratory Technician,Outstanding,4,3,4284
+1421,Research & Development,High,Healthcare Representative,Excellent,8,7,7553
+1422,Research & Development,Very High,Research Director,Excellent,20,7,17328
+1423,Research & Development,Very High,Research Director,Outstanding,9,8,19701
+1424,Research & Development,Medium,Research Director,Excellent,7,7,14732
+1425,Sales,Low,Sales Executive,Excellent,5,4,9278
+1427,Sales,Medium,Sales Representative,Excellent,1,0,1359
+1428,Sales,Very High,Sales Executive,Excellent,3,2,4779
+1430,Research & Development,Low,Research Director,Excellent,3,2,16422
+1431,Research & Development,Very High,Research Scientist,Excellent,4,3,2996
+1433,Research & Development,Low,Research Scientist,Excellent,1,0,1261
+1434,Research & Development,Medium,Laboratory Technician,Excellent,5,0,2099
+1435,Research & Development,Low,Laboratory Technician,Excellent,10,4,5810
+1436,Sales,High,Sales Executive,Excellent,3,2,5647
+1438,Research & Development,Low,Research Scientist,Excellent,6,5,3420
+1439,Sales,Low,Sales Representative,Excellent,3,2,4400
+1440,Research & Development,High,Laboratory Technician,Excellent,6,5,3500
+1441,Research & Development,Low,Research Scientist,Outstanding,3,2,2066
+1443,Research & Development,Low,Research Director,Excellent,20,17,17169
+1445,Sales,Very High,Sales Executive,Excellent,5,4,4162
+1446,Sales,Very High,Sales Executive,Excellent,4,3,9204
+1447,Research & Development,Very High,Laboratory Technician,Excellent,5,4,3294
+1448,Research & Development,Medium,Research Scientist,Excellent,4,2,2127
+1449,Research & Development,High,Laboratory Technician,Excellent,8,7,3975
+1453,Sales,Low,Sales Executive,Excellent,13,7,10793
+1457,Sales,Low,Sales Executive,Excellent,7,7,10096
+1458,Research & Development,Low,Laboratory Technician,Outstanding,1,0,3646
+1459,Research & Development,High,Manufacturing Director,Excellent,10,8,7446
+1460,Research & Development,Medium,Healthcare Representative,Excellent,7,7,10851
+1461,Human Resources,Very High,Human Resources,Excellent,3,2,2109
+1464,Research & Development,Medium,Laboratory Technician,Excellent,2,2,3722
+1465,Research & Development,Medium,Manufacturing Director,Excellent,3,1,9380
+1466,Sales,High,Sales Executive,Excellent,2,2,5486
+1467,Human Resources,Low,Human Resources,Excellent,2,2,2742
+1468,Research & Development,Very High,Research Director,Excellent,9,8,13757
+1469,Sales,Very High,Sales Executive,Excellent,5,4,8463
+1471,Research & Development,High,Laboratory Technician,Excellent,5,2,3162
+1472,Research & Development,Very High,Research Director,Excellent,9,8,16598
+1473,Research & Development,Low,Healthcare Representative,Excellent,3,2,6651
+1474,Research & Development,High,Research Scientist,Excellent,3,1,2345
+1475,Research & Development,Very High,Research Scientist,Excellent,5,2,3420
+1477,Sales,Very High,Sales Executive,Excellent,4,3,4373
+1478,Sales,Very High,Sales Executive,Excellent,13,9,4759
+1479,Sales,Very High,Sales Executive,Excellent,2,1,5301
+1480,Research & Development,Low,Laboratory Technician,Excellent,12,9,3673
+1481,Sales,Low,Sales Executive,Excellent,1,0,4768
+1482,Research & Development,High,Research Scientist,Excellent,1,0,1274
+1483,Research & Development,Medium,Research Scientist,Outstanding,12,9,4900
+1484,Research & Development,High,Healthcare Representative,Excellent,8,7,10466
+1485,Research & Development,Medium,Research Director,Excellent,14,8,17007
+1486,Sales,Low,Sales Representative,Excellent,3,2,2909
+1487,Sales,Low,Sales Executive,Excellent,5,3,5765
+1489,Sales,Low,Sales Executive,Outstanding,15,9,4599
+1492,Sales,Very High,Sales Representative,Excellent,1,0,2404
+1494,Research & Development,Medium,Laboratory Technician,Excellent,0,0,3172
+1495,Sales,Very High,Sales Representative,Excellent,1,0,2033
+1496,Research & Development,Medium,Manufacturing Director,Excellent,2,2,10209
+1497,Sales,High,Sales Executive,Excellent,10,7,8620
+1499,Human Resources,High,Human Resources,Outstanding,5,3,2064
+1501,Research & Development,Very High,Healthcare Representative,Excellent,3,2,4035
+1502,Research & Development,Low,Laboratory Technician,Excellent,5,4,3838
+1503,Sales,High,Sales Executive,Excellent,5,4,4591
+1504,Research & Development,High,Laboratory Technician,Excellent,0,0,2561
+1506,Research & Development,Low,Research Scientist,Excellent,1,0,1563
+1507,Sales,High,Sales Executive,Excellent,4,2,4898
+1509,Research & Development,High,Laboratory Technician,Outstanding,3,2,4789
+1513,Research & Development,Very High,Laboratory Technician,Excellent,3,2,3180
+1514,Research & Development,High,Manufacturing Director,Excellent,8,6,6549
+1515,Research & Development,Very High,Healthcare Representative,Excellent,0,0,6388
+1516,Research & Development,High,Manager,Outstanding,5,2,11244
+1520,Research & Development,Medium,Manager,Outstanding,14,9,16032
+1522,Research & Development,Low,Research Scientist,Excellent,9,7,2362
+1523,Research & Development,Very High,Research Director,Excellent,20,6,16328
+1525,Research & Development,Medium,Manufacturing Director,Excellent,2,0,8376
+1527,Sales,High,Manager,Excellent,13,12,16606
+1529,Research & Development,Very High,Healthcare Representative,Excellent,11,8,8606
+1533,Research & Development,Low,Laboratory Technician,Excellent,4,3,2272
+1534,Research & Development,Very High,Laboratory Technician,Excellent,5,4,2018
+1535,Sales,Very High,Sales Executive,Excellent,10,9,7083
+1537,Research & Development,Very High,Research Scientist,Excellent,7,2,4084
+1539,Research & Development,High,Research Director,Excellent,32,6,14411
+1541,Sales,Medium,Sales Representative,Outstanding,11,10,2308
+1542,Research & Development,High,Laboratory Technician,Excellent,1,0,4841
+1543,Research & Development,Low,Research Scientist,Excellent,10,8,4285
+1544,Research & Development,High,Healthcare Representative,Excellent,7,7,9715
+1545,Research & Development,Very High,Manufacturing Director,Excellent,5,3,4320
+1546,Research & Development,Very High,Research Scientist,Outstanding,5,4,2132
+1547,Research & Development,Very High,Healthcare Representative,Excellent,20,8,10124
+1548,Sales,Low,Sales Executive,Excellent,8,4,5473
+1549,Research & Development,Medium,Laboratory Technician,Excellent,15,14,5207
+1550,Human Resources,High,Manager,Outstanding,21,7,16437
+1551,Research & Development,High,Laboratory Technician,Excellent,1,1,2296
+1552,Research & Development,Very High,Healthcare Representative,Excellent,2,2,4069
+1553,Research & Development,Low,Healthcare Representative,Excellent,10,8,7441
+1554,Sales,Medium,Sales Representative,Outstanding,5,3,2430
+1555,Research & Development,Very High,Research Scientist,Excellent,7,1,5878
+1556,Sales,High,Sales Representative,Outstanding,3,2,2644
+1557,Sales,High,Sales Executive,Excellent,8,7,6439
+1558,Research & Development,High,Research Scientist,Excellent,1,0,2451
+1560,Sales,Low,Sales Executive,Excellent,2,2,6392
+1562,Sales,Medium,Sales Executive,Excellent,10,8,9714
+1563,Human Resources,High,Human Resources,Excellent,6,3,6077
+1564,Research & Development,Very High,Laboratory Technician,Excellent,3,0,2450
+1568,Sales,High,Sales Executive,Excellent,4,2,9250
+1569,Research & Development,Low,Laboratory Technician,Excellent,1,0,2074
+1572,Research & Development,High,Manufacturing Director,Excellent,33,7,10169
+1573,Research & Development,High,Manufacturing Director,Excellent,5,2,4855
+1574,Research & Development,Very High,Research Scientist,Excellent,6,5,4087
+1576,Research & Development,High,Research Scientist,Excellent,8,2,2367
+1577,Research & Development,Low,Research Scientist,Excellent,1,0,2972
+1578,Sales,High,Manager,Outstanding,36,6,19586
+1580,Research & Development,Medium,Research Scientist,Excellent,2,2,5484
+1581,Research & Development,Low,Research Scientist,Outstanding,1,0,2061
+1582,Sales,High,Sales Executive,Excellent,9,8,9924
+1583,Sales,Medium,Sales Executive,Excellent,3,2,4198
+1585,Sales,Medium,Sales Executive,Excellent,1,0,6815
+1586,Research & Development,Medium,Laboratory Technician,Excellent,10,9,4723
+1587,Research & Development,Low,Healthcare Representative,Excellent,5,2,6142
+1588,Sales,Very High,Sales Executive,Excellent,7,6,8237
+1590,Research & Development,Low,Healthcare Representative,Excellent,6,4,8853
+1591,Sales,High,Manager,Excellent,1,0,19331
+1592,Research & Development,Very High,Research Scientist,Excellent,2,2,2073
+1594,Research & Development,Low,Laboratory Technician,Excellent,3,2,5562
+1595,Research & Development,Very High,Manager,Outstanding,1,0,19613
+1596,Research & Development,Medium,Laboratory Technician,Excellent,10,9,3407
+1597,Research & Development,Very High,Healthcare Representative,Excellent,8,2,5063
+1598,Sales,Very High,Sales Executive,Excellent,5,4,4639
+1599,Research & Development,Very High,Laboratory Technician,Excellent,6,4,4876
+1601,Research & Development,High,Laboratory Technician,Excellent,1,0,2690
+1602,Sales,Very High,Manager,Excellent,26,0,17567
+1604,Research & Development,High,Laboratory Technician,Excellent,1,1,2408
+1605,Research & Development,Medium,Research Scientist,Excellent,4,2,2814
+1606,Research & Development,Medium,Healthcare Representative,Excellent,30,8,11245
+1607,Research & Development,Medium,Research Scientist,Excellent,3,2,3312
+1608,Research & Development,Medium,Research Director,Excellent,22,7,19049
+1609,Research & Development,Medium,Research Scientist,Excellent,6,4,2141
+1611,Research & Development,High,Laboratory Technician,Excellent,10,7,5769
+1612,Sales,Low,Sales Executive,Excellent,10,7,4385
+1613,Sales,Very High,Sales Executive,Excellent,5,2,5332
+1614,Research & Development,High,Manufacturing Director,Excellent,3,2,4663
+1615,Research & Development,High,Manufacturing Director,Excellent,9,7,4724
+1617,Research & Development,High,Laboratory Technician,Excellent,9,6,3211
+1618,Research & Development,Medium,Manufacturing Director,Excellent,7,7,5377
+1619,Research & Development,Very High,Laboratory Technician,Excellent,7,7,4066
+1621,Research & Development,Medium,Research Scientist,Excellent,16,15,5208
+1622,Research & Development,Medium,Manufacturing Director,Outstanding,5,3,4877
+1623,Research & Development,High,Research Scientist,Excellent,2,2,3117
+1624,Sales,Medium,Sales Representative,Excellent,0,0,1569
+1625,Human Resources,Very High,Manager,Excellent,5,2,19658
+1627,Research & Development,High,Laboratory Technician,Excellent,10,8,3069
+1628,Research & Development,Low,Manufacturing Director,Excellent,18,15,10435
+1630,Research & Development,High,Healthcare Representative,Excellent,14,11,4148
+1631,Research & Development,High,Manufacturing Director,Excellent,4,3,5768
+1633,Research & Development,Low,Manufacturing Director,Excellent,9,2,5042
+1635,Research & Development,Very High,Manufacturing Director,Excellent,10,7,5770
+1638,Research & Development,Very High,Manufacturing Director,Excellent,5,4,7756
+1639,Sales,Very High,Sales Executive,Excellent,13,12,10306
+1640,Research & Development,Medium,Research Scientist,Excellent,8,4,3936
+1641,Research & Development,High,Manufacturing Director,Excellent,4,2,7945
+1642,Human Resources,Low,Human Resources,Excellent,10,7,5743
+1644,Research & Development,High,Manager,Outstanding,2,2,15202
+1645,Sales,Low,Sales Executive,Excellent,2,2,5440
+1646,Research & Development,Low,Research Scientist,Excellent,6,3,3760
+1647,Research & Development,Medium,Research Scientist,Excellent,3,2,3517
+1648,Research & Development,Very High,Research Scientist,Excellent,4,2,2580
+1649,Research & Development,Low,Laboratory Technician,Excellent,4,2,2166
+1650,Sales,High,Sales Executive,Excellent,5,2,5869
+1651,Research & Development,Medium,Healthcare Representative,Excellent,3,2,8008
+1653,Research & Development,Very High,Manufacturing Director,Excellent,7,7,5206
+1654,Research & Development,Very High,Manufacturing Director,Outstanding,5,4,5295
+1655,Research & Development,Low,Research Director,Excellent,4,2,16413
+1656,Research & Development,Very High,Research Director,Excellent,14,11,13269
+1657,Sales,High,Sales Representative,Excellent,2,2,2783
+1658,Research & Development,Very High,Research Scientist,Excellent,11,8,5433
+1659,Research & Development,Low,Laboratory Technician,Excellent,4,3,2013
+1661,Research & Development,High,Healthcare Representative,Excellent,15,11,13966
+1662,Research & Development,Very High,Manufacturing Director,Excellent,3,2,4374
+1664,Research & Development,Very High,Healthcare Representative,Outstanding,5,4,6842
+1665,Research & Development,Medium,Manager,Outstanding,10,8,17426
+1666,Research & Development,High,Research Director,Outstanding,14,10,17603
+1667,Sales,Very High,Sales Executive,Outstanding,11,9,4581
+1668,Research & Development,Very High,Research Scientist,Excellent,13,11,4735
+1669,Sales,Low,Sales Executive,Excellent,10,0,4187
+1670,Sales,Very High,Sales Executive,Excellent,6,2,5505
+1671,Research & Development,Very High,Research Scientist,Excellent,9,5,5470
+1673,Sales,Low,Sales Executive,Excellent,10,0,5476
+1674,Research & Development,Very High,Laboratory Technician,Excellent,2,2,2587
+1675,Research & Development,Very High,Laboratory Technician,Outstanding,4,3,2440
+1676,Sales,Medium,Manager,Excellent,3,2,15972
+1677,Research & Development,High,Manager,Excellent,8,7,15379
+1678,Sales,Very High,Sales Executive,Excellent,2,0,7082
+1680,Sales,Very High,Sales Representative,Excellent,2,2,2728
+1681,Sales,High,Sales Executive,Outstanding,6,5,5368
+1682,Research & Development,Low,Healthcare Representative,Excellent,3,2,5347
+1683,Human Resources,High,Human Resources,Excellent,2,2,3195
+1684,Research & Development,Very High,Laboratory Technician,Excellent,5,4,3989
+1687,Research & Development,Very High,Laboratory Technician,Excellent,0,0,3306
+1689,Research & Development,Medium,Healthcare Representative,Excellent,4,3,7005
+1691,Sales,Very High,Sales Representative,Excellent,9,7,2655
+1692,Research & Development,Very High,Laboratory Technician,Excellent,1,0,1393
+1693,Research & Development,Very High,Laboratory Technician,Outstanding,7,7,2570
+1694,Research & Development,Low,Research Scientist,Excellent,4,2,3537
+1696,Research & Development,Medium,Laboratory Technician,Excellent,15,10,3986
+1697,Research & Development,High,Healthcare Representative,Outstanding,1,0,10883
+1698,Research & Development,Medium,Laboratory Technician,Excellent,14,11,2028
+1700,Sales,High,Sales Executive,Excellent,6,3,9525
+1701,Research & Development,Medium,Research Scientist,Excellent,10,9,2929
+1702,Sales,High,Sales Representative,Outstanding,3,2,2275
+1703,Research & Development,High,Healthcare Representative,Excellent,8,7,7879
+1704,Research & Development,Low,Research Scientist,Excellent,5,4,4930
+1706,Sales,Very High,Sales Executive,Excellent,10,9,7847
+1707,Research & Development,High,Research Scientist,Excellent,5,3,4401
+1708,Sales,Very High,Sales Executive,Excellent,10,8,9241
+1709,Research & Development,Very High,Laboratory Technician,Excellent,5,3,2974
+1710,Sales,High,Sales Representative,Excellent,13,7,4502
+1712,Research & Development,High,Healthcare Representative,Outstanding,23,15,10748
+1714,Human Resources,Very High,Human Resources,Excellent,1,0,1555
+1716,Sales,High,Sales Executive,Excellent,23,5,12936
+1718,Research & Development,Very High,Laboratory Technician,Excellent,3,2,2305
+1719,Research & Development,Very High,Research Director,Excellent,21,6,16704
+1720,Research & Development,Low,Research Scientist,Excellent,5,2,3433
+1721,Research & Development,Medium,Laboratory Technician,Excellent,5,2,3477
+1722,Human Resources,High,Human Resources,Excellent,3,2,6430
+1724,Research & Development,Medium,Manufacturing Director,Excellent,1,0,6516
+1725,Research & Development,Medium,Laboratory Technician,Excellent,6,2,3907
+1727,Research & Development,High,Healthcare Representative,Excellent,10,7,5562
+1728,Research & Development,Very High,Manufacturing Director,Excellent,7,7,6883
+1729,Research & Development,Medium,Research Scientist,Excellent,10,0,2862
+1731,Sales,High,Sales Executive,Excellent,1,0,4978
+1732,Sales,High,Sales Executive,Excellent,10,6,10368
+1733,Sales,Medium,Sales Executive,Excellent,2,2,6134
+1734,Sales,Low,Sales Executive,Excellent,0,0,6735
+1735,Research & Development,High,Laboratory Technician,Excellent,3,2,3295
+1736,Research & Development,Very High,Manufacturing Director,Outstanding,5,4,5238
+1737,Research & Development,Very High,Laboratory Technician,Excellent,9,8,6472
+1739,Sales,Very High,Sales Executive,Excellent,4,3,9610
+1740,Sales,Medium,Manager,Excellent,21,8,19833
+1744,Human Resources,High,Human Resources,Outstanding,5,0,9756
+1745,Research & Development,Very High,Research Scientist,Excellent,9,7,4968
+1746,Human Resources,Low,Human Resources,Excellent,2,2,2145
+1747,Human Resources,High,Human Resources,Excellent,4,2,2180
+1749,Sales,Low,Sales Executive,Excellent,5,2,8346
+1751,Research & Development,High,Research Scientist,Excellent,6,2,3445
+1752,Sales,Medium,Sales Representative,Excellent,2,2,2760
+1753,Research & Development,Very High,Healthcare Representative,Excellent,3,2,6294
+1754,Sales,High,Sales Executive,Excellent,7,7,7140
+1755,Research & Development,Very High,Research Scientist,Excellent,5,0,2932
+1756,Sales,Very High,Sales Executive,Excellent,11,7,5147
+1757,Sales,Very High,Sales Executive,Excellent,5,1,4507
+1758,Sales,Low,Sales Executive,Outstanding,0,0,8564
+1760,Research & Development,High,Laboratory Technician,Excellent,6,1,2468
+1761,Sales,Low,Sales Executive,Excellent,1,0,8161
+1762,Research & Development,Very High,Research Scientist,Excellent,1,0,2109
+1763,Research & Development,High,Healthcare Representative,Excellent,7,0,5294
+1764,Research & Development,Medium,Research Scientist,Excellent,7,7,2718
+1766,Research & Development,Medium,Healthcare Representative,Excellent,1,0,5811
+1767,Research & Development,High,Research Scientist,Excellent,1,0,2437
+1768,Research & Development,Medium,Laboratory Technician,Outstanding,5,3,2766
+1770,Research & Development,High,Research Director,Excellent,1,0,19038
+1771,Research & Development,Very High,Research Scientist,Excellent,9,8,3055
+1772,Research & Development,High,Laboratory Technician,Outstanding,5,3,2289
+1774,Sales,Very High,Sales Executive,Excellent,15,14,4001
+1775,Research & Development,Low,Manufacturing Director,Outstanding,3,2,12965
+1778,Human Resources,Medium,Human Resources,Excellent,9,7,3539
+1779,Sales,Very High,Sales Executive,Excellent,2,2,6029
+1780,Sales,Medium,Sales Representative,Excellent,1,0,2679
+1782,Research & Development,Very High,Laboratory Technician,Excellent,5,4,3702
+1783,Research & Development,High,Laboratory Technician,Excellent,1,0,2398
+1784,Sales,Low,Sales Executive,Excellent,12,7,5468
+1786,Research & Development,Low,Manager,Excellent,2,2,13116
+1787,Sales,Medium,Sales Executive,Excellent,5,2,4189
+1789,Research & Development,High,Research Director,Excellent,2,1,19328
+1790,Research & Development,Very High,Healthcare Representative,Excellent,12,8,8321
+1792,Research & Development,High,Research Scientist,Excellent,5,3,2342
+1794,Human Resources,High,Human Resources,Excellent,10,0,4071
+1797,Sales,High,Sales Executive,Excellent,10,7,5813
+1798,Research & Development,Very High,Research Scientist,Excellent,10,8,3143
+1799,Research & Development,High,Research Scientist,Excellent,5,3,2044
+1800,Research & Development,High,Research Director,Outstanding,4,3,13464
+1801,Sales,Medium,Sales Executive,Excellent,2,2,7991
+1802,Research & Development,High,Laboratory Technician,Excellent,4,3,3377
+1803,Research & Development,Medium,Healthcare Representative,Excellent,0,0,5538
+1804,Research & Development,Medium,Manufacturing Director,Excellent,7,7,5762
+1805,Human Resources,Low,Human Resources,Excellent,11,10,2592
+1807,Research & Development,Very High,Laboratory Technician,Excellent,7,1,5346
+1809,Research & Development,Very High,Manufacturing Director,Excellent,10,3,4213
+1812,Sales,High,Sales Executive,Excellent,2,1,4127
+1813,Research & Development,Low,Research Scientist,Excellent,3,2,2438
+1814,Research & Development,Medium,Healthcare Representative,Excellent,3,2,6870
+1815,Sales,High,Sales Executive,Excellent,22,14,10447
+1816,Research & Development,Low,Manufacturing Director,Excellent,7,7,9667
+1818,Human Resources,Very High,Human Resources,Excellent,5,1,2148
+1821,Research & Development,Very High,Healthcare Representative,Outstanding,9,7,8926
+1822,Research & Development,High,Healthcare Representative,Excellent,5,3,6513
+1823,Sales,Medium,Sales Executive,Outstanding,10,8,6799
+1824,Sales,Medium,Manager,Outstanding,16,9,16291
+1826,Research & Development,Medium,Laboratory Technician,Excellent,5,4,2705
+1827,Research & Development,High,Manufacturing Director,Excellent,22,11,10333
+1829,Research & Development,Medium,Healthcare Representative,Excellent,7,4,4448
+1830,Research & Development,Very High,Research Scientist,Excellent,7,1,6854
+1833,Sales,Low,Sales Executive,Excellent,3,2,9637
+1834,Research & Development,High,Research Scientist,Outstanding,3,2,3591
+1835,Sales,Medium,Sales Representative,Outstanding,4,2,5405
+1836,Sales,High,Sales Executive,Excellent,5,3,4684
+1837,Research & Development,Low,Research Director,Excellent,2,2,15787
+1839,Research & Development,Medium,Research Scientist,Excellent,0,0,1514
+1842,Human Resources,Very High,Human Resources,Excellent,1,0,2956
+1844,Human Resources,Low,Human Resources,Excellent,2,2,2335
+1845,Sales,High,Sales Executive,Outstanding,8,7,5154
+1847,Research & Development,Very High,Research Scientist,Outstanding,1,0,6962
+1849,Sales,Low,Sales Executive,Outstanding,7,7,5675
+1850,Research & Development,Very High,Laboratory Technician,Excellent,5,4,2379
+1852,Research & Development,Very High,Laboratory Technician,Excellent,11,8,3812
+1853,Sales,Very High,Sales Executive,Excellent,0,0,4648
+1854,Research & Development,High,Research Scientist,Outstanding,6,3,2936
+1856,Research & Development,Medium,Laboratory Technician,Excellent,2,2,2105
+1857,Research & Development,Very High,Manufacturing Director,Excellent,9,8,8578
+1858,Human Resources,High,Human Resources,Excellent,3,2,2706
+1859,Research & Development,Very High,Healthcare Representative,Excellent,7,0,6384
+1860,Research & Development,Very High,Laboratory Technician,Excellent,0,0,3968
+1862,Sales,High,Sales Executive,Excellent,2,2,9907
+1863,Sales,Low,Sales Executive,Excellent,19,17,13225
+1864,Sales,Medium,Sales Representative,Outstanding,9,8,3540
+1865,Human Resources,Very High,Human Resources,Excellent,1,0,2804
+1866,Research & Development,Low,Manager,Excellent,16,12,19392
+1867,Research & Development,Very High,Research Director,Excellent,22,10,19665
+1868,Research & Development,Very High,Research Scientist,Outstanding,1,0,2439
+1869,Sales,High,Sales Executive,Outstanding,8,7,7314
+1870,Research & Development,Very High,Research Scientist,Excellent,7,6,4774
+1871,Research & Development,Very High,Research Scientist,Excellent,2,2,3902
+1873,Research & Development,Medium,Research Scientist,Outstanding,5,2,2662
+1875,Sales,Medium,Sales Representative,Excellent,1,0,2856
+1876,Sales,Medium,Sales Representative,Excellent,1,0,1081
+1878,Research & Development,Very High,Research Scientist,Outstanding,1,0,2472
+1880,Sales,Medium,Sales Executive,Excellent,10,9,5673
+1881,Research & Development,Medium,Laboratory Technician,Excellent,10,8,4197
+1882,Sales,High,Sales Executive,Excellent,5,3,9713
+1883,Research & Development,Very High,Laboratory Technician,Excellent,3,2,2062
+1885,Research & Development,Very High,Research Scientist,Outstanding,5,3,4284
+1886,Research & Development,Very High,Manufacturing Director,Excellent,3,2,4788
+1888,Research & Development,Medium,Manufacturing Director,Excellent,9,8,5906
+1890,Human Resources,Medium,Human Resources,Outstanding,10,1,3886
+1892,Research & Development,Low,Manager,Excellent,19,7,16823
+1893,Research & Development,Medium,Research Scientist,Excellent,1,0,2933
+1898,Sales,Low,Sales Executive,Excellent,8,7,6500
+1900,Research & Development,Very High,Manager,Excellent,22,17,17174
+1903,Research & Development,Medium,Healthcare Representative,Excellent,2,0,5033
+1905,Research & Development,Very High,Research Scientist,Outstanding,5,2,2307
+1907,Research & Development,Low,Laboratory Technician,Excellent,4,2,2587
+1908,Sales,High,Sales Executive,Excellent,4,2,5507
+1909,Sales,High,Sales Executive,Outstanding,5,4,4393
+1911,Research & Development,High,Research Director,Excellent,13,7,13348
+1912,Sales,High,Sales Executive,Excellent,5,2,6583
+1915,Sales,Very High,Sales Executive,Excellent,4,2,8103
+1916,Research & Development,Low,Laboratory Technician,Excellent,2,2,3978
+1918,Research & Development,High,Laboratory Technician,Excellent,7,7,2544
+1922,Research & Development,Medium,Healthcare Representative,Excellent,4,2,5399
+1924,Sales,Medium,Sales Executive,Excellent,10,4,5487
+1927,Sales,High,Sales Executive,Excellent,7,7,6834
+1928,Sales,High,Sales Representative,Excellent,1,0,1091
+1929,Sales,Low,Sales Executive,Excellent,3,2,5736
+1931,Research & Development,Medium,Research Scientist,Excellent,5,3,2226
+1932,Research & Development,High,Research Scientist,Excellent,15,10,5747
+1933,Sales,Very High,Sales Executive,Excellent,2,0,9854
+1934,Research & Development,High,Research Scientist,Excellent,8,7,5467
+1935,Sales,Very High,Sales Executive,Excellent,0,0,5380
+1936,Research & Development,Low,Manufacturing Director,Outstanding,10,0,5151
+1937,Research & Development,Very High,Research Scientist,Excellent,20,11,2133
+1938,Sales,Very High,Manager,Excellent,1,0,17875
+1939,Research & Development,Low,Research Scientist,Excellent,4,1,2432
+1940,Research & Development,Medium,Research Scientist,Excellent,5,2,4771
+1941,Research & Development,Medium,Research Director,Excellent,5,4,19161
+1943,Sales,Medium,Sales Executive,Excellent,0,0,5087
+1944,Human Resources,Low,Human Resources,Excellent,1,0,2863
+1945,Sales,Medium,Sales Executive,Excellent,5,3,5561
+1947,Research & Development,High,Research Scientist,Excellent,5,3,2144
+1948,Research & Development,High,Research Scientist,Excellent,4,2,3065
+1949,Research & Development,Low,Laboratory Technician,Outstanding,5,4,2810
+1950,Sales,Low,Sales Executive,Outstanding,14,8,9888
+1951,Sales,Very High,Sales Executive,Excellent,8,7,8628
+1952,Research & Development,High,Laboratory Technician,Excellent,7,7,2867
+1954,Research & Development,Low,Healthcare Representative,Excellent,5,3,5373
+1955,Research & Development,High,Healthcare Representative,Excellent,5,1,6667
+1956,Research & Development,Very High,Research Scientist,Outstanding,10,8,5003
+1960,Research & Development,High,Laboratory Technician,Excellent,4,1,2367
+1961,Sales,Low,Sales Representative,Excellent,1,0,2858
+1962,Sales,High,Sales Executive,Excellent,10,8,5204
+1965,Sales,Very High,Sales Executive,Excellent,7,7,4105
+1966,Research & Development,Very High,Manufacturing Director,Outstanding,1,0,9679
+1967,Sales,Low,Sales Executive,Excellent,10,7,5617
+1968,Sales,Low,Sales Executive,Excellent,2,2,10448
+1969,Research & Development,Low,Research Scientist,Excellent,4,3,2897
+1970,Research & Development,Very High,Healthcare Representative,Outstanding,9,7,5968
+1971,Research & Development,Low,Healthcare Representative,Excellent,10,9,7510
+1972,Human Resources,Very High,Human Resources,Excellent,6,2,2991
+1973,Human Resources,High,Manager,Excellent,10,9,19636
+1974,Research & Development,Very High,Laboratory Technician,Excellent,1,0,1129
+1975,Sales,Medium,Sales Executive,Excellent,20,8,13341
+1976,Research & Development,Very High,Research Scientist,Excellent,20,9,4332
+1979,Research & Development,High,Research Director,Outstanding,11,7,11031
+1980,Research & Development,High,Manufacturing Director,Excellent,5,2,4440
+1981,Research & Development,Medium,Healthcare Representative,Excellent,4,3,4617
+1982,Research & Development,Very High,Laboratory Technician,Excellent,5,2,2647
+1985,Research & Development,Very High,Laboratory Technician,Excellent,10,9,6323
+1986,Sales,Medium,Sales Executive,Excellent,11,8,5677
+1987,Human Resources,High,Human Resources,Excellent,2,0,2187
+1989,Research & Development,Very High,Laboratory Technician,Excellent,12,8,3748
+1992,Research & Development,Very High,Laboratory Technician,Excellent,2,2,3977
+1993,Research & Development,Low,Healthcare Representative,Outstanding,17,14,8633
+1994,Research & Development,Medium,Laboratory Technician,Excellent,1,1,2008
+1995,Sales,Very High,Sales Executive,Excellent,15,13,4440
+1996,Sales,Low,Sales Representative,Excellent,2,2,3067
+1997,Research & Development,Low,Manufacturing Director,Excellent,8,3,5321
+1998,Research & Development,Very High,Research Scientist,Excellent,4,3,5410
+1999,Research & Development,Very High,Research Scientist,Outstanding,5,3,2782
+2000,Research & Development,High,Research Director,Excellent,13,8,11957
+2003,Research & Development,Very High,Laboratory Technician,Excellent,2,2,2660
+2007,Research & Development,Very High,Research Scientist,Excellent,3,2,3375
+2008,Research & Development,Medium,Research Scientist,Excellent,10,7,5098
+2009,Research & Development,Medium,Healthcare Representative,Excellent,9,7,4878
+2010,Research & Development,High,Laboratory Technician,Excellent,6,2,2837
+2012,Research & Development,Low,Laboratory Technician,Excellent,1,0,2406
+2013,Sales,Medium,Sales Representative,Excellent,2,2,2269
+2014,Research & Development,Low,Research Scientist,Excellent,7,7,4108
+2015,Research & Development,Medium,Research Director,Excellent,18,16,13206
+2016,Sales,High,Sales Executive,Excellent,14,10,10422
+2017,Research & Development,High,Research Director,Outstanding,16,11,13744
+2018,Sales,Low,Sales Executive,Outstanding,5,3,4907
+2019,Sales,Low,Sales Representative,Excellent,9,8,3482
+2020,Research & Development,Medium,Research Scientist,Excellent,4,3,2436
+2021,Sales,High,Sales Representative,Excellent,2,2,2380
+2022,Research & Development,Very High,Manager,Excellent,6,0,19431
+2023,Sales,Very High,Sales Representative,Excellent,1,0,1790
+2024,Sales,Low,Sales Executive,Excellent,9,7,7644
+2025,Research & Development,Very High,Manufacturing Director,Excellent,4,2,5131
+2026,Research & Development,High,Healthcare Representative,Outstanding,13,12,6306
+2027,Research & Development,Low,Research Scientist,Excellent,2,2,4787
+2031,Research & Development,Low,Manager,Excellent,22,6,18880
+2032,Research & Development,Very High,Laboratory Technician,Excellent,10,9,2339
+2034,Research & Development,Low,Manufacturing Director,Outstanding,20,7,13570
+2035,Sales,Very High,Sales Executive,Outstanding,8,7,6712
+2036,Sales,Very High,Sales Executive,Outstanding,15,12,5406
+2037,Sales,High,Sales Executive,Excellent,5,4,8938
+2038,Research & Development,Very High,Research Scientist,Excellent,4,2,2439
+2040,Human Resources,High,Human Resources,Excellent,9,0,8837
+2041,Sales,Low,Sales Executive,Excellent,10,7,5343
+2044,Sales,Medium,Sales Executive,Excellent,6,3,6728
+2045,Sales,Medium,Sales Executive,Excellent,6,3,6652
+2046,Sales,Very High,Sales Executive,Excellent,5,3,4850
+2048,Research & Development,High,Research Scientist,Excellent,2,2,2809
+2049,Research & Development,High,Healthcare Representative,Excellent,10,2,5689
+2051,Research & Development,High,Research Scientist,Excellent,5,3,2001
+2052,Research & Development,High,Research Scientist,Excellent,4,3,2977
+2053,Research & Development,Very High,Laboratory Technician,Excellent,4,3,4025
+2054,Research & Development,Very High,Research Scientist,Excellent,5,4,3785
+2055,Sales,Very High,Sales Executive,Excellent,3,2,10854
+2056,Sales,Medium,Sales Executive,Excellent,20,9,12031
+2057,Research & Development,Medium,Manufacturing Director,Excellent,9,4,9936
+2060,Sales,Very High,Sales Representative,Excellent,4,2,2966
+2061,Research & Development,High,Laboratory Technician,Excellent,5,2,2571
+2062,Research & Development,Very High,Healthcare Representative,Excellent,7,7,9991
+2064,Research & Development,Medium,Manufacturing Director,Outstanding,6,2,6142
+2065,Sales,Very High,Sales Executive,Excellent,9,6,5390
+2068,Research & Development,Medium,Laboratory Technician,Excellent,4,3,4404
