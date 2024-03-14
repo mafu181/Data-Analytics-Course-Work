@@ -1,0 +1,1 @@
+This is my work for the Practical Data Analytics course. There are five assignments and two project works are included in the folder with all the datasets that I have used for data analysis. The projects are little different at the last parts.
